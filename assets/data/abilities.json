@@ -1,0 +1,1318 @@
+{
+    "albedo": {
+        "skill": {
+            "name": "Albedo",
+            "abilityName": "Abiogenesis: Solar Isotoma",
+            "type": "skill",
+            "imageSource": "https://static.wikia.nocookie.net/gensin-impact/images/0/0e/Talent_Abiogenesis_Solar_Isotoma.png/revision/latest"
+        },
+        "burst": {
+            "name": "Albedo",
+            "abilityName": "Rite of Progeniture: Tectonic Tide",
+            "type": "burst",
+            "imageSource": "https://static.wikia.nocookie.net/gensin-impact/images/0/0a/Talent_Rite_of_Progeniture_Tectonic_Tide.png/revision/latest"
+        }
+    },
+    "qiqi": {
+        "skill": {
+            "name": "Qiqi",
+            "abilityName": "Adeptus Art: Herald of Frost",
+            "type": "skill",
+            "imageSource": "https://static.wikia.nocookie.net/gensin-impact/images/7/7f/Talent_Adeptus_Art_Herald_of_Frost.png/revision/latest"
+        },
+        "burst": {
+            "name": "Qiqi",
+            "abilityName": "Adeptus Art: Preserver of Fortune",
+            "type": "burst",
+            "imageSource": "https://static.wikia.nocookie.net/gensin-impact/images/7/7c/Talent_Adeptus_Art_Preserver_of_Fortune.png/revision/latest"
+        }
+    },
+    "yumemizuki mizuki": {
+        "skill": {
+            "name": "Yumemizuki Mizuki",
+            "abilityName": "Aisa Utamakura Pilgrimage",
+            "type": "skill",
+            "imageSource": "https://static.wikia.nocookie.net/gensin-impact/images/5/54/Talent_Aisa_Utamakura_Pilgrimage.png/revision/latest"
+        },
+        "burst": {
+            "name": "Yumemizuki Mizuki",
+            "abilityName": "Anraku Secret Spring Therapy",
+            "type": "burst",
+            "imageSource": "https://static.wikia.nocookie.net/gensin-impact/images/b/bc/Talent_Anraku_Secret_Spring_Therapy.png/revision/latest"
+        }
+    },
+    "arlecchino": {
+        "skill": {
+            "name": "Arlecchino",
+            "abilityName": "All Is Ash",
+            "type": "skill",
+            "imageSource": "https://static.wikia.nocookie.net/gensin-impact/images/0/01/Talent_All_Is_Ash.png/revision/latest"
+        },
+        "burst": {
+            "name": "Arlecchino",
+            "abilityName": "Balemoon Rising",
+            "type": "burst",
+            "imageSource": "https://static.wikia.nocookie.net/gensin-impact/images/5/5c/Talent_Balemoon_Rising.png/revision/latest"
+        }
+    },
+    "nahida": {
+        "skill": {
+            "name": "Nahida",
+            "abilityName": "All Schemes to Know",
+            "type": "skill",
+            "imageSource": "https://static.wikia.nocookie.net/gensin-impact/images/7/72/Talent_All_Schemes_to_Know.png/revision/latest"
+        },
+        "burst": {
+            "name": "Nahida",
+            "abilityName": "Illusory Heart",
+            "type": "burst",
+            "imageSource": "https://static.wikia.nocookie.net/gensin-impact/images/e/e9/Talent_Illusory_Heart.png/revision/latest"
+        }
+    },
+    "sethos": {
+        "skill": {
+            "name": "Sethos",
+            "abilityName": "Ancient Rite: The Thundering Sands",
+            "type": "skill",
+            "imageSource": "https://static.wikia.nocookie.net/gensin-impact/images/1/14/Talent_Ancient_Rite_The_Thundering_Sands.png/revision/latest"
+        },
+        "burst": {
+            "name": "Sethos",
+            "abilityName": "Secret Rite: Twilight Shadowpiercer",
+            "type": "burst",
+            "imageSource": "https://static.wikia.nocookie.net/gensin-impact/images/3/33/Talent_Secret_Rite_Twilight_Shadowpiercer.png/revision/latest"
+        }
+    },
+    "kaveh": {
+        "skill": {
+            "name": "Kaveh",
+            "abilityName": "Artistic Ingenuity",
+            "type": "skill",
+            "imageSource": "https://static.wikia.nocookie.net/gensin-impact/images/0/0b/Talent_Artistic_Ingenuity.png/revision/latest"
+        },
+        "burst": {
+            "name": "Kaveh",
+            "abilityName": "Painted Dome",
+            "type": "burst",
+            "imageSource": "https://static.wikia.nocookie.net/gensin-impact/images/2/28/Talent_Painted_Dome.png/revision/latest"
+        }
+    },
+    "sucrose": {
+        "skill": {
+            "name": "Sucrose",
+            "abilityName": "Astable Anemohypostasis Creation - 6308",
+            "type": "skill",
+            "imageSource": "https://static.wikia.nocookie.net/gensin-impact/images/7/76/Talent_Astable_Anemohypostasis_Creation_-_6308.png/revision/latest"
+        },
+        "burst": {
+            "name": "Sucrose",
+            "abilityName": "Forbidden Creation - Isomer 75 / Type II",
+            "type": "burst",
+            "imageSource": "https://static.wikia.nocookie.net/gensin-impact/images/4/4d/Talent_Forbidden_Creation_-_Isomer_75_Type_II.png/revision/latest"
+        }
+    },
+    "gaming": {
+        "skill": {
+            "name": "Gaming",
+            "abilityName": "Bestial Ascent",
+            "type": "skill",
+            "imageSource": "https://static.wikia.nocookie.net/gensin-impact/images/f/f1/Talent_Bestial_Ascent.png/revision/latest"
+        },
+        "burst": {
+            "name": "Gaming",
+            "abilityName": "Suanni's Gilded Dance",
+            "type": "burst",
+            "imageSource": "https://static.wikia.nocookie.net/gensin-impact/images/1/15/Talent_Suanni%27s_Gilded_Dance.png/revision/latest"
+        }
+    },
+    "lyney": {
+        "skill": {
+            "name": "Lyney",
+            "abilityName": "Bewildering Lights",
+            "type": "skill",
+            "imageSource": "https://static.wikia.nocookie.net/gensin-impact/images/0/05/Talent_Bewildering_Lights.png/revision/latest"
+        },
+        "burst": {
+            "name": "Lyney",
+            "abilityName": "Wondrous Trick: Miracle Parade",
+            "type": "burst",
+            "imageSource": "https://static.wikia.nocookie.net/gensin-impact/images/d/df/Talent_Wondrous_Trick_Miracle_Parade.png/revision/latest"
+        }
+    },
+    "thoma": {
+        "skill": {
+            "name": "Thoma",
+            "abilityName": "Blazing Blessing",
+            "type": "skill",
+            "imageSource": "https://static.wikia.nocookie.net/gensin-impact/images/9/9b/Talent_Blazing_Blessing.png/revision/latest"
+        },
+        "burst": {
+            "name": "Thoma",
+            "abilityName": "Crimson Ooyoroi",
+            "type": "burst",
+            "imageSource": "https://static.wikia.nocookie.net/gensin-impact/images/e/e4/Talent_Crimson_Ooyoroi.png/revision/latest"
+        }
+    },
+    "noelle": {
+        "skill": {
+            "name": "Noelle",
+            "abilityName": "Breastplate",
+            "type": "skill",
+            "imageSource": "https://static.wikia.nocookie.net/gensin-impact/images/5/5a/Talent_Breastplate.png/revision/latest"
+        },
+        "burst": {
+            "name": "Noelle",
+            "abilityName": "Sweeping Time",
+            "type": "burst",
+            "imageSource": "https://static.wikia.nocookie.net/gensin-impact/images/7/7c/Talent_Sweeping_Time.png/revision/latest"
+        }
+    },
+    "kinich": {
+        "skill": {
+            "name": "Kinich",
+            "abilityName": "Canopy Hunter: Riding High",
+            "type": "skill",
+            "imageSource": "https://static.wikia.nocookie.net/gensin-impact/images/2/21/Talent_Canopy_Hunter_Riding_High.png/revision/latest"
+        },
+        "burst": {
+            "name": "Kinich",
+            "abilityName": "Hail to the Almighty Dragonlord",
+            "type": "burst",
+            "imageSource": "https://static.wikia.nocookie.net/gensin-impact/images/4/48/Talent_Hail_to_the_Almighty_Dragonlord.png/revision/latest"
+        }
+    },
+    "navia": {
+        "skill": {
+            "name": "Navia",
+            "abilityName": "Ceremonial Crystalshot",
+            "type": "skill",
+            "imageSource": "https://static.wikia.nocookie.net/gensin-impact/images/4/4e/Talent_Ceremonial_Crystalshot.png/revision/latest"
+        },
+        "burst": {
+            "name": "Navia",
+            "abilityName": "As the Sunlit Sky's Singing Salute",
+            "type": "burst",
+            "imageSource": "https://static.wikia.nocookie.net/gensin-impact/images/f/f1/Talent_As_the_Sunlit_Sky%27s_Singing_Salute.png/revision/latest"
+        }
+    },
+    "kaedehara kazuha": {
+        "skill": {
+            "name": "Kaedehara Kazuha",
+            "abilityName": "Chihayaburu",
+            "type": "skill",
+            "imageSource": "https://static.wikia.nocookie.net/gensin-impact/images/2/22/Talent_Chihayaburu.png/revision/latest"
+        },
+        "burst": {
+            "name": "Kaedehara Kazuha",
+            "abilityName": "Kazuha Slash",
+            "type": "burst",
+            "imageSource": "https://static.wikia.nocookie.net/gensin-impact/images/0/06/Talent_Kazuha_Slash.png/revision/latest"
+        }
+    },
+    "razor": {
+        "skill": {
+            "name": "Razor",
+            "abilityName": "Claw and Thunder",
+            "type": "skill",
+            "imageSource": "https://static.wikia.nocookie.net/gensin-impact/images/0/06/Talent_Claw_and_Thunder.png/revision/latest"
+        },
+        "burst": {
+            "name": "Razor",
+            "abilityName": "Lightning Fang",
+            "type": "burst",
+            "imageSource": "https://static.wikia.nocookie.net/gensin-impact/images/3/3a/Talent_Lightning_Fang.png/revision/latest"
+        }
+    },
+    "nilou": {
+        "skill": {
+            "name": "Nilou",
+            "abilityName": "Dance of Haftkarsvar",
+            "type": "skill",
+            "imageSource": "https://static.wikia.nocookie.net/gensin-impact/images/3/3e/Talent_Dance_of_Haftkarsvar.png/revision/latest"
+        },
+        "burst": {
+            "name": "Nilou",
+            "abilityName": "Dance of Abzendegi: Distant Dreams, Listening Spring",
+            "type": "burst",
+            "imageSource": "https://static.wikia.nocookie.net/gensin-impact/images/b/b9/Talent_Dance_of_Abzendegi_Distant_Dreams%2C_Listening_Spring.png/revision/latest"
+        }
+    },
+    "citlali": {
+        "skill": {
+            "name": "Citlali",
+            "abilityName": "Dawnfrost Darkstar",
+            "type": "skill",
+            "imageSource": "https://static.wikia.nocookie.net/gensin-impact/images/7/76/Talent_Dawnfrost_Darkstar.png/revision/latest"
+        },
+        "burst": {
+            "name": "Citlali",
+            "abilityName": "Edict of Entwined Splendor",
+            "type": "burst",
+            "imageSource": "https://static.wikia.nocookie.net/gensin-impact/images/f/f1/Talent_Edict_of_Entwined_Splendor.png/revision/latest"
+        }
+    },
+    "zhongli": {
+        "skill": {
+            "name": "Zhongli",
+            "abilityName": "Dominus Lapidis",
+            "type": "skill",
+            "imageSource": "https://static.wikia.nocookie.net/gensin-impact/images/9/93/Talent_Dominus_Lapidis.png/revision/latest"
+        },
+        "burst": {
+            "name": "Zhongli",
+            "abilityName": "Planet Befall",
+            "type": "burst",
+            "imageSource": "https://static.wikia.nocookie.net/gensin-impact/images/7/76/Talent_Planet_Befall.png/revision/latest"
+        }
+    },
+    "lynette": {
+        "skill": {
+            "name": "Lynette",
+            "abilityName": "Enigmatic Feint",
+            "type": "skill",
+            "imageSource": "https://static.wikia.nocookie.net/gensin-impact/images/4/4e/Talent_Enigmatic_Feint.png/revision/latest"
+        },
+        "burst": {
+            "name": "Lynette",
+            "abilityName": "Magic Trick: Astonishing Shift",
+            "type": "burst",
+            "imageSource": "https://static.wikia.nocookie.net/gensin-impact/images/c/cf/Talent_Magic_Trick_Astonishing_Shift.png/revision/latest"
+        }
+    },
+    "amber": {
+        "skill": {
+            "name": "Amber",
+            "abilityName": "Explosive Puppet",
+            "type": "skill",
+            "imageSource": "https://static.wikia.nocookie.net/gensin-impact/images/e/e0/Talent_Explosive_Puppet.png/revision/latest"
+        },
+        "burst": {
+            "name": "Amber",
+            "abilityName": "Fiery Rain",
+            "type": "burst",
+            "imageSource": "https://static.wikia.nocookie.net/gensin-impact/images/6/6c/Talent_Fiery_Rain.png/revision/latest"
+        }
+    },
+    "collei": {
+        "skill": {
+            "name": "Collei",
+            "abilityName": "Floral Brush",
+            "type": "skill",
+            "imageSource": "https://static.wikia.nocookie.net/gensin-impact/images/8/88/Talent_Floral_Brush.png/revision/latest"
+        },
+        "burst": {
+            "name": "Collei",
+            "abilityName": "Trump-Card Kitty",
+            "type": "burst",
+            "imageSource": "https://static.wikia.nocookie.net/gensin-impact/images/2/2e/Talent_Trump-Card_Kitty.png/revision/latest"
+        }
+    },
+    "chiori": {
+        "skill": {
+            "name": "Chiori",
+            "abilityName": "Fluttering Hasode",
+            "type": "skill",
+            "imageSource": "https://static.wikia.nocookie.net/gensin-impact/images/4/4d/Talent_Fluttering_Hasode.png/revision/latest"
+        },
+        "burst": {
+            "name": "Chiori",
+            "abilityName": "Hiyoku: Twin Blades",
+            "type": "burst",
+            "imageSource": "https://static.wikia.nocookie.net/gensin-impact/images/e/e5/Talent_Hiyoku_Twin_Blades.png/revision/latest"
+        }
+    },
+    "tartaglia": {
+        "skill": {
+            "name": "Tartaglia",
+            "abilityName": "Foul Legacy: Raging Tide",
+            "type": "skill",
+            "imageSource": "https://static.wikia.nocookie.net/gensin-impact/images/b/b5/Talent_Foul_Legacy_Raging_Tide.png/revision/latest"
+        },
+        "burst": {
+            "name": "Tartaglia",
+            "abilityName": "Havoc: Obliteration",
+            "type": "burst",
+            "imageSource": "https://static.wikia.nocookie.net/gensin-impact/images/0/03/Talent_Havoc_Obliteration.png/revision/latest"
+        }
+    },
+    "emilie": {
+        "skill": {
+            "name": "Emilie",
+            "abilityName": "Fragrance Extraction",
+            "type": "skill",
+            "imageSource": "https://static.wikia.nocookie.net/gensin-impact/images/1/18/Talent_Fragrance_Extraction.png/revision/latest"
+        },
+        "burst": {
+            "name": "Emilie",
+            "abilityName": "Aromatic Explication",
+            "type": "burst",
+            "imageSource": "https://static.wikia.nocookie.net/gensin-impact/images/9/96/Talent_Aromatic_Explication.png/revision/latest"
+        }
+    },
+    "charlotte": {
+        "skill": {
+            "name": "Charlotte",
+            "abilityName": "Framing: Freezing Point Composition",
+            "type": "skill",
+            "imageSource": "https://static.wikia.nocookie.net/gensin-impact/images/c/c1/Talent_Framing_Freezing_Point_Composition.png/revision/latest"
+        },
+        "burst": {
+            "name": "Charlotte",
+            "abilityName": "Still Photo: Comprehensive Confirmation",
+            "type": "burst",
+            "imageSource": "https://static.wikia.nocookie.net/gensin-impact/images/8/89/Talent_Still_Photo_Comprehensive_Confirmation.png/revision/latest"
+        }
+    },
+    "kaeya": {
+        "skill": {
+            "name": "Kaeya",
+            "abilityName": "Frostgnaw",
+            "type": "skill",
+            "imageSource": "https://static.wikia.nocookie.net/gensin-impact/images/5/51/Talent_Frostgnaw.png/revision/latest"
+        },
+        "burst": {
+            "name": "Kaeya",
+            "abilityName": "Glacial Waltz",
+            "type": "burst",
+            "imageSource": "https://static.wikia.nocookie.net/gensin-impact/images/2/29/Talent_Glacial_Waltz.png/revision/latest"
+        }
+    },
+    "aloy": {
+        "skill": {
+            "name": "Aloy",
+            "abilityName": "Frozen Wilds",
+            "type": "skill",
+            "imageSource": "https://static.wikia.nocookie.net/gensin-impact/images/9/9a/Talent_Frozen_Wilds.png/revision/latest"
+        },
+        "burst": {
+            "name": "Aloy",
+            "abilityName": "Prophecies of Dawn",
+            "type": "burst",
+            "imageSource": "https://static.wikia.nocookie.net/gensin-impact/images/b/b4/Talent_Prophecies_of_Dawn.png/revision/latest"
+        }
+    },
+    "jean": {
+        "skill": {
+            "name": "Jean",
+            "abilityName": "Gale Blade",
+            "type": "skill",
+            "imageSource": "https://static.wikia.nocookie.net/gensin-impact/images/2/24/Talent_Gale_Blade.png/revision/latest"
+        },
+        "burst": {
+            "name": "Jean",
+            "abilityName": "Dandelion Breeze",
+            "type": "burst",
+            "imageSource": "https://static.wikia.nocookie.net/gensin-impact/images/e/ef/Talent_Dandelion_Breeze.png/revision/latest"
+        }
+    },
+    "kachina": {
+        "skill": {
+            "name": "Kachina",
+            "abilityName": "Go, Go Turbo Twirly!",
+            "type": "skill",
+            "imageSource": "https://static.wikia.nocookie.net/gensin-impact/images/a/a0/Talent_Go%2C_Go_Turbo_Twirly%21.png/revision/latest"
+        },
+        "burst": {
+            "name": "Kachina",
+            "abilityName": "Time to Get Serious!",
+            "type": "burst",
+            "imageSource": "https://static.wikia.nocookie.net/gensin-impact/images/8/8d/Talent_Time_to_Get_Serious%21.png/revision/latest"
+        }
+    },
+    "xingqiu": {
+        "skill": {
+            "name": "Xingqiu",
+            "abilityName": "Guhua Sword: Fatal Rainscreen",
+            "type": "skill",
+            "imageSource": "https://static.wikia.nocookie.net/gensin-impact/images/5/5d/Talent_Guhua_Sword_Fatal_Rainscreen.png/revision/latest"
+        },
+        "burst": {
+            "name": "Xingqiu",
+            "abilityName": "Guhua Sword: Raincutter",
+            "type": "burst",
+            "imageSource": "https://static.wikia.nocookie.net/gensin-impact/images/2/23/Talent_Guhua_Sword_Raincutter.png/revision/latest"
+        }
+    },
+    "hu tao": {
+        "skill": {
+            "name": "Hu Tao",
+            "abilityName": "Guide to Afterlife",
+            "type": "skill",
+            "imageSource": "https://static.wikia.nocookie.net/gensin-impact/images/b/be/Talent_Guide_to_Afterlife.png/revision/latest"
+        },
+        "burst": {
+            "name": "Hu Tao",
+            "abilityName": "Spirit Soother",
+            "type": "burst",
+            "imageSource": "https://static.wikia.nocookie.net/gensin-impact/images/1/11/Talent_Spirit_Soother.png/revision/latest"
+        }
+    },
+    "xiangling": {
+        "skill": {
+            "name": "Xiangling",
+            "abilityName": "Guoba Attack",
+            "type": "skill",
+            "imageSource": "https://static.wikia.nocookie.net/gensin-impact/images/a/a9/Talent_Guoba_Attack.png/revision/latest"
+        },
+        "burst": {
+            "name": "Xiangling",
+            "abilityName": "Pyronado",
+            "type": "burst",
+            "imageSource": "https://static.wikia.nocookie.net/gensin-impact/images/2/29/Talent_Pyronado.png/revision/latest"
+        }
+    },
+    "wanderer": {
+        "skill": {
+            "name": "Wanderer",
+            "abilityName": "Hanega: Song of the Wind",
+            "type": "skill",
+            "imageSource": "https://static.wikia.nocookie.net/gensin-impact/images/b/b0/Talent_Hanega_Song_of_the_Wind.png/revision/latest"
+        },
+        "burst": {
+            "name": "Wanderer",
+            "abilityName": "Kyougen: Five Ceremonial Plays",
+            "type": "burst",
+            "imageSource": "https://static.wikia.nocookie.net/gensin-impact/images/6/64/Talent_Kyougen_Five_Ceremonial_Plays.png/revision/latest"
+        }
+    },
+    "shikanoin heizou": {
+        "skill": {
+            "name": "Shikanoin Heizou",
+            "abilityName": "Heartstopper Strike",
+            "type": "skill",
+            "imageSource": "https://static.wikia.nocookie.net/gensin-impact/images/c/cb/Talent_Heartstopper_Strike.png/revision/latest"
+        },
+        "burst": {
+            "name": "Shikanoin Heizou",
+            "abilityName": "Windmuster Kick",
+            "type": "burst",
+            "imageSource": "https://static.wikia.nocookie.net/gensin-impact/images/0/0a/Talent_Windmuster_Kick.png/revision/latest"
+        }
+    },
+    "clorinde": {
+        "skill": {
+            "name": "Clorinde",
+            "abilityName": "Hunter's Vigil",
+            "type": "skill",
+            "imageSource": "https://static.wikia.nocookie.net/gensin-impact/images/a/a6/Talent_Hunter%27s_Vigil.png/revision/latest"
+        },
+        "burst": {
+            "name": "Clorinde",
+            "abilityName": "Last Lightfall",
+            "type": "burst",
+            "imageSource": "https://static.wikia.nocookie.net/gensin-impact/images/1/13/Talent_Last_Lightfall.png/revision/latest"
+        }
+    },
+    "wriothesley": {
+        "skill": {
+            "name": "Wriothesley",
+            "abilityName": "Icefang Rush",
+            "type": "skill",
+            "imageSource": "https://static.wikia.nocookie.net/gensin-impact/images/d/d7/Talent_Icefang_Rush.png/revision/latest"
+        },
+        "burst": {
+            "name": "Wriothesley",
+            "abilityName": "Darkgold Wolfbite",
+            "type": "burst",
+            "imageSource": "https://static.wikia.nocookie.net/gensin-impact/images/8/88/Talent_Darkgold_Wolfbite.png/revision/latest"
+        }
+    },
+    "eula": {
+        "skill": {
+            "name": "Eula",
+            "abilityName": "Icetide Vortex",
+            "type": "skill",
+            "imageSource": "https://static.wikia.nocookie.net/gensin-impact/images/a/ae/Talent_Icetide_Vortex.png/revision/latest"
+        },
+        "burst": {
+            "name": "Eula",
+            "abilityName": "Glacial Illumination",
+            "type": "burst",
+            "imageSource": "https://static.wikia.nocookie.net/gensin-impact/images/a/af/Talent_Glacial_Illumination.png/revision/latest"
+        }
+    },
+    "diona": {
+        "skill": {
+            "name": "Diona",
+            "abilityName": "Icy Paws",
+            "type": "skill",
+            "imageSource": "https://static.wikia.nocookie.net/gensin-impact/images/e/e9/Talent_Icy_Paws.png/revision/latest"
+        },
+        "burst": {
+            "name": "Diona",
+            "abilityName": "Signature Mix",
+            "type": "burst",
+            "imageSource": "https://static.wikia.nocookie.net/gensin-impact/images/5/57/Talent_Signature_Mix.png/revision/latest"
+        }
+    },
+    "gorou": {
+        "skill": {
+            "name": "Gorou",
+            "abilityName": "Inuzaka All-Round Defense",
+            "type": "skill",
+            "imageSource": "https://static.wikia.nocookie.net/gensin-impact/images/e/e6/Talent_Inuzaka_All-Round_Defense.png/revision/latest"
+        },
+        "burst": {
+            "name": "Gorou",
+            "abilityName": "Juuga: Forward Unto Victory",
+            "type": "burst",
+            "imageSource": "https://static.wikia.nocookie.net/gensin-impact/images/f/f9/Talent_Juuga_Forward_Unto_Victory.png/revision/latest"
+        }
+    },
+    "ningguang": {
+        "skill": {
+            "name": "Ningguang",
+            "abilityName": "Jade Screen",
+            "type": "skill",
+            "imageSource": "https://static.wikia.nocookie.net/gensin-impact/images/e/e8/Talent_Jade_Screen.png/revision/latest"
+        },
+        "burst": {
+            "name": "Ningguang",
+            "abilityName": "Starshatter",
+            "type": "burst",
+            "imageSource": "https://static.wikia.nocookie.net/gensin-impact/images/4/47/Talent_Starshatter.png/revision/latest"
+        }
+    },
+    "klee": {
+        "skill": {
+            "name": "Klee",
+            "abilityName": "Jumpy Dumpty",
+            "type": "skill",
+            "imageSource": "https://static.wikia.nocookie.net/gensin-impact/images/3/33/Talent_Jumpy_Dumpty.png/revision/latest"
+        },
+        "burst": {
+            "name": "Klee",
+            "abilityName": "Sparks 'n' Splash",
+            "type": "burst",
+            "imageSource": "https://static.wikia.nocookie.net/gensin-impact/images/6/64/Talent_Sparks_%27n%27_Splash.png/revision/latest"
+        }
+    },
+    "kamisato ayaka": {
+        "skill": {
+            "name": "Kamisato Ayaka",
+            "abilityName": "Kamisato Art: Hyouka",
+            "type": "skill",
+            "imageSource": "https://static.wikia.nocookie.net/gensin-impact/images/5/56/Talent_Kamisato_Art_Hyouka.png/revision/latest"
+        },
+        "burst": {
+            "name": "Kamisato Ayaka",
+            "abilityName": "Kamisato Art: Soumetsu",
+            "type": "burst",
+            "imageSource": "https://static.wikia.nocookie.net/gensin-impact/images/1/11/Talent_Kamisato_Art_Soumetsu.png/revision/latest"
+        }
+    },
+    "kamisato ayato": {
+        "skill": {
+            "name": "Kamisato Ayato",
+            "abilityName": "Kamisato Art: Kyouka",
+            "type": "skill",
+            "imageSource": "https://static.wikia.nocookie.net/gensin-impact/images/5/5d/Talent_Kamisato_Art_Kyouka.png/revision/latest"
+        },
+        "burst": {
+            "name": "Kamisato Ayato",
+            "abilityName": "Kamisato Art: Suiyuu",
+            "type": "burst",
+            "imageSource": "https://static.wikia.nocookie.net/gensin-impact/images/e/e8/Talent_Kamisato_Art_Suiyuu.png/revision/latest"
+        }
+    },
+    "sangonomiya kokomi": {
+        "skill": {
+            "name": "Sangonomiya Kokomi",
+            "abilityName": "Kurage's Oath",
+            "type": "skill",
+            "imageSource": "https://static.wikia.nocookie.net/gensin-impact/images/6/6e/Talent_Kurage%27s_Oath.png/revision/latest"
+        },
+        "burst": {
+            "name": "Sangonomiya Kokomi",
+            "abilityName": "Nereid's Ascension",
+            "type": "burst",
+            "imageSource": "https://static.wikia.nocookie.net/gensin-impact/images/4/46/Talent_Nereid%27s_Ascension.png/revision/latest"
+        }
+    },
+    "xiao": {
+        "skill": {
+            "name": "Xiao",
+            "abilityName": "Lemniscatic Wind Cycling",
+            "type": "skill",
+            "imageSource": "https://static.wikia.nocookie.net/gensin-impact/images/d/da/Talent_Lemniscatic_Wind_Cycling.png/revision/latest"
+        },
+        "burst": {
+            "name": "Xiao",
+            "abilityName": "Bane of All Evil",
+            "type": "burst",
+            "imageSource": "https://static.wikia.nocookie.net/gensin-impact/images/2/2f/Talent_Bane_of_All_Evil.png/revision/latest"
+        }
+    },
+    "barbara": {
+        "skill": {
+            "name": "Barbara",
+            "abilityName": "Let the Show Begin\u266a",
+            "type": "skill",
+            "imageSource": "https://static.wikia.nocookie.net/gensin-impact/images/9/95/Talent_Let_the_Show_Begin%E2%99%AA.png/revision/latest"
+        },
+        "burst": {
+            "name": "Barbara",
+            "abilityName": "Shining Miracle\u266a",
+            "type": "burst",
+            "imageSource": "https://static.wikia.nocookie.net/gensin-impact/images/c/cb/Talent_Shining_Miracle%E2%99%AA.png/revision/latest"
+        }
+    },
+    "yelan": {
+        "skill": {
+            "name": "Yelan",
+            "abilityName": "Lingering Lifeline",
+            "type": "skill",
+            "imageSource": "https://static.wikia.nocookie.net/gensin-impact/images/5/59/Talent_Lingering_Lifeline.png/revision/latest"
+        },
+        "burst": {
+            "name": "Yelan",
+            "abilityName": "Depth-Clarion Dice",
+            "type": "burst",
+            "imageSource": "https://static.wikia.nocookie.net/gensin-impact/images/b/bd/Talent_Depth-Clarion_Dice.png/revision/latest"
+        }
+    },
+    "arataki itto": {
+        "skill": {
+            "name": "Arataki Itto",
+            "abilityName": "Masatsu Zetsugi: Akaushi Burst!",
+            "type": "skill",
+            "imageSource": "https://static.wikia.nocookie.net/gensin-impact/images/5/51/Talent_Masatsu_Zetsugi_Akaushi_Burst%21.png/revision/latest"
+        },
+        "burst": {
+            "name": "Arataki Itto",
+            "abilityName": "Royal Descent: Behold, Itto the Evil!",
+            "type": "burst",
+            "imageSource": "https://static.wikia.nocookie.net/gensin-impact/images/5/50/Talent_Royal_Descent_Behold%2C_Itto_the_Evil%21.png/revision/latest"
+        }
+    },
+    "kirara": {
+        "skill": {
+            "name": "Kirara",
+            "abilityName": "Meow-teor Kick",
+            "type": "skill",
+            "imageSource": "https://static.wikia.nocookie.net/gensin-impact/images/7/79/Talent_Meow-teor_Kick.png/revision/latest"
+        },
+        "burst": {
+            "name": "Kirara",
+            "abilityName": "Secret Art: Surprise Dispatch",
+            "type": "burst",
+            "imageSource": "https://static.wikia.nocookie.net/gensin-impact/images/a/a1/Talent_Secret_Art_Surprise_Dispatch.png/revision/latest"
+        }
+    },
+    "mona": {
+        "skill": {
+            "name": "Mona",
+            "abilityName": "Mirror Reflection of Doom",
+            "type": "skill",
+            "imageSource": "https://static.wikia.nocookie.net/gensin-impact/images/4/45/Talent_Mirror_Reflection_of_Doom.png/revision/latest"
+        },
+        "burst": {
+            "name": "Mona",
+            "abilityName": "Stellaris Phantasm",
+            "type": "burst",
+            "imageSource": "https://static.wikia.nocookie.net/gensin-impact/images/c/c4/Talent_Stellaris_Phantasm.png/revision/latest"
+        }
+    },
+    "dehya": {
+        "skill": {
+            "name": "Dehya",
+            "abilityName": "Molten Inferno",
+            "type": "skill",
+            "imageSource": "https://static.wikia.nocookie.net/gensin-impact/images/6/6b/Talent_Molten_Inferno.png/revision/latest"
+        },
+        "burst": {
+            "name": "Dehya",
+            "abilityName": "Leonine Bite",
+            "type": "burst",
+            "imageSource": "https://static.wikia.nocookie.net/gensin-impact/images/1/12/Talent_Leonine_Bite.png/revision/latest"
+        }
+    },
+    "ororon": {
+        "skill": {
+            "name": "Ororon",
+            "abilityName": "Night's Sling",
+            "type": "skill",
+            "imageSource": "https://static.wikia.nocookie.net/gensin-impact/images/3/37/Talent_Night%27s_Sling.png/revision/latest"
+        },
+        "burst": {
+            "name": "Ororon",
+            "abilityName": "Dark Voices Echo",
+            "type": "burst",
+            "imageSource": "https://static.wikia.nocookie.net/gensin-impact/images/4/49/Talent_Dark_Voices_Echo.png/revision/latest"
+        }
+    },
+    "fischl": {
+        "skill": {
+            "name": "Fischl",
+            "abilityName": "Nightrider",
+            "type": "skill",
+            "imageSource": "https://static.wikia.nocookie.net/gensin-impact/images/b/b3/Talent_Nightrider.png/revision/latest"
+        },
+        "burst": {
+            "name": "Fischl",
+            "abilityName": "Midnight Phantasmagoria",
+            "type": "burst",
+            "imageSource": "https://static.wikia.nocookie.net/gensin-impact/images/f/ff/Talent_Midnight_Phantasmagoria.png/revision/latest"
+        }
+    },
+    "layla": {
+        "skill": {
+            "name": "Layla",
+            "abilityName": "Nights of Formal Focus",
+            "type": "skill",
+            "imageSource": "https://static.wikia.nocookie.net/gensin-impact/images/9/90/Talent_Nights_of_Formal_Focus.png/revision/latest"
+        },
+        "burst": {
+            "name": "Layla",
+            "abilityName": "Dream of the Star-Stream Shaker",
+            "type": "burst",
+            "imageSource": "https://static.wikia.nocookie.net/gensin-impact/images/b/b4/Talent_Dream_of_the_Star-Stream_Shaker.png/revision/latest"
+        }
+    },
+    "yoimiya": {
+        "skill": {
+            "name": "Yoimiya",
+            "abilityName": "Niwabi Fire-Dance",
+            "type": "skill",
+            "imageSource": "https://static.wikia.nocookie.net/gensin-impact/images/0/03/Talent_Niwabi_Fire-Dance.png/revision/latest"
+        },
+        "burst": {
+            "name": "Yoimiya",
+            "abilityName": "Ryuukin Saxifrage",
+            "type": "burst",
+            "imageSource": "https://static.wikia.nocookie.net/gensin-impact/images/a/a7/Talent_Ryuukin_Saxifrage.png/revision/latest"
+        }
+    },
+    "neuvillette": {
+        "skill": {
+            "name": "Neuvillette",
+            "abilityName": "O Tears, I Shall Repay",
+            "type": "skill",
+            "imageSource": "https://static.wikia.nocookie.net/gensin-impact/images/0/0e/Talent_O_Tears%2C_I_Shall_Repay.png/revision/latest"
+        },
+        "burst": {
+            "name": "Neuvillette",
+            "abilityName": "O Tides, I Have Returned",
+            "type": "burst",
+            "imageSource": "https://static.wikia.nocookie.net/gensin-impact/images/f/f4/Talent_O_Tides%2C_I_Have_Returned.png/revision/latest"
+        }
+    },
+    "yun jin": {
+        "skill": {
+            "name": "Yun Jin",
+            "abilityName": "Opening Flourish",
+            "type": "skill",
+            "imageSource": "https://static.wikia.nocookie.net/gensin-impact/images/9/92/Talent_Opening_Flourish.png/revision/latest"
+        },
+        "burst": {
+            "name": "Yun Jin",
+            "abilityName": "Cliffbreaker's Banner",
+            "type": "burst",
+            "imageSource": "https://static.wikia.nocookie.net/gensin-impact/images/5/59/Talent_Cliffbreaker%27s_Banner.png/revision/latest"
+        }
+    },
+    "bennett": {
+        "skill": {
+            "name": "Bennett",
+            "abilityName": "Passion Overload",
+            "type": "skill",
+            "imageSource": "https://static.wikia.nocookie.net/gensin-impact/images/6/66/Talent_Passion_Overload.png/revision/latest"
+        },
+        "burst": {
+            "name": "Bennett",
+            "abilityName": "Fantastic Voyage",
+            "type": "burst",
+            "imageSource": "https://static.wikia.nocookie.net/gensin-impact/images/a/a2/Talent_Fantastic_Voyage.png/revision/latest"
+        }
+    },
+    "freminet": {
+        "skill": {
+            "name": "Freminet",
+            "abilityName": "Pressurized Floe",
+            "type": "skill",
+            "imageSource": "https://static.wikia.nocookie.net/gensin-impact/images/5/5d/Talent_Pressurized_Floe.png/revision/latest"
+        },
+        "burst": {
+            "name": "Freminet",
+            "abilityName": "Shadowhunter's Ambush",
+            "type": "burst",
+            "imageSource": "https://static.wikia.nocookie.net/gensin-impact/images/9/9e/Talent_Shadowhunter%27s_Ambush.png/revision/latest"
+        }
+    },
+    "yaoyao": {
+        "skill": {
+            "name": "Yaoyao",
+            "abilityName": "Raphanus Sky Cluster",
+            "type": "skill",
+            "imageSource": "https://static.wikia.nocookie.net/gensin-impact/images/2/25/Talent_Raphanus_Sky_Cluster.png/revision/latest"
+        },
+        "burst": {
+            "name": "Yaoyao",
+            "abilityName": "Moonjade Descent",
+            "type": "burst",
+            "imageSource": "https://static.wikia.nocookie.net/gensin-impact/images/c/ca/Talent_Moonjade_Descent.png/revision/latest"
+        }
+    },
+    "rosaria": {
+        "skill": {
+            "name": "Rosaria",
+            "abilityName": "Ravaging Confession",
+            "type": "skill",
+            "imageSource": "https://static.wikia.nocookie.net/gensin-impact/images/c/ce/Talent_Ravaging_Confession.png/revision/latest"
+        },
+        "burst": {
+            "name": "Rosaria",
+            "abilityName": "Rites of Termination",
+            "type": "burst",
+            "imageSource": "https://static.wikia.nocookie.net/gensin-impact/images/2/26/Talent_Rites_of_Termination.png/revision/latest"
+        }
+    },
+    "sigewinne": {
+        "skill": {
+            "name": "Sigewinne",
+            "abilityName": "Rebound Hydrotherapy",
+            "type": "skill",
+            "imageSource": "https://static.wikia.nocookie.net/gensin-impact/images/a/a4/Talent_Rebound_Hydrotherapy.png/revision/latest"
+        },
+        "burst": {
+            "name": "Sigewinne",
+            "abilityName": "Super Saturated Syringing",
+            "type": "burst",
+            "imageSource": "https://static.wikia.nocookie.net/gensin-impact/images/6/67/Talent_Super_Saturated_Syringing.png/revision/latest"
+        }
+    },
+    "candace": {
+        "skill": {
+            "name": "Candace",
+            "abilityName": "Sacred Rite: Heron's Sanctum",
+            "type": "skill",
+            "imageSource": "https://static.wikia.nocookie.net/gensin-impact/images/5/5d/Talent_Sacred_Rite_Heron%27s_Sanctum.png/revision/latest"
+        },
+        "burst": {
+            "name": "Candace",
+            "abilityName": "Sacred Rite: Wagtail's Tide",
+            "type": "burst",
+            "imageSource": "https://static.wikia.nocookie.net/gensin-impact/images/1/1a/Talent_Sacred_Rite_Wagtail%27s_Tide.png/revision/latest"
+        }
+    },
+    "furina": {
+        "skill": {
+            "name": "Furina",
+            "abilityName": "Salon Solitaire",
+            "type": "skill",
+            "imageSource": "https://static.wikia.nocookie.net/gensin-impact/images/6/6f/Talent_Salon_Solitaire.png/revision/latest"
+        },
+        "burst": {
+            "name": "Furina",
+            "abilityName": "Let the People Rejoice",
+            "type": "burst",
+            "imageSource": "https://static.wikia.nocookie.net/gensin-impact/images/6/66/Talent_Let_the_People_Rejoice.png/revision/latest"
+        }
+    },
+    "kuki shinobu": {
+        "skill": {
+            "name": "Kuki Shinobu",
+            "abilityName": "Sanctifying Ring",
+            "type": "skill",
+            "imageSource": "https://static.wikia.nocookie.net/gensin-impact/images/d/d7/Talent_Sanctifying_Ring.png/revision/latest"
+        },
+        "burst": {
+            "name": "Kuki Shinobu",
+            "abilityName": "Gyoei Narukami Kariyama Rite",
+            "type": "burst",
+            "imageSource": "https://static.wikia.nocookie.net/gensin-impact/images/4/47/Talent_Gyoei_Narukami_Kariyama_Rite.png/revision/latest"
+        }
+    },
+    "diluc": {
+        "skill": {
+            "name": "Diluc",
+            "abilityName": "Searing Onslaught",
+            "type": "skill",
+            "imageSource": "https://static.wikia.nocookie.net/gensin-impact/images/5/53/Talent_Searing_Onslaught.png/revision/latest"
+        },
+        "burst": {
+            "name": "Diluc",
+            "abilityName": "Dawn",
+            "type": "burst",
+            "imageSource": "https://static.wikia.nocookie.net/gensin-impact/images/f/f5/Talent_Dawn.png/revision/latest"
+        }
+    },
+    "cyno": {
+        "skill": {
+            "name": "Cyno",
+            "abilityName": "Secret Rite: Chasmic Soulfarer",
+            "type": "skill",
+            "imageSource": "https://static.wikia.nocookie.net/gensin-impact/images/e/e3/Talent_Secret_Rite_Chasmic_Soulfarer.png/revision/latest"
+        },
+        "burst": {
+            "name": "Cyno",
+            "abilityName": "Sacred Rite: Wolf's Swiftness",
+            "type": "burst",
+            "imageSource": "https://static.wikia.nocookie.net/gensin-impact/images/a/a0/Talent_Sacred_Rite_Wolf%27s_Swiftness.png/revision/latest"
+        }
+    },
+    "chevreuse": {
+        "skill": {
+            "name": "Chevreuse",
+            "abilityName": "Short-Range Rapid Interdiction Fire",
+            "type": "skill",
+            "imageSource": "https://static.wikia.nocookie.net/gensin-impact/images/0/0b/Talent_Short-Range_Rapid_Interdiction_Fire.png/revision/latest"
+        },
+        "burst": {
+            "name": "Chevreuse",
+            "abilityName": "Ring of Bursting Grenades",
+            "type": "burst",
+            "imageSource": "https://static.wikia.nocookie.net/gensin-impact/images/b/be/Talent_Ring_of_Bursting_Grenades.png/revision/latest"
+        }
+    },
+    "yanfei": {
+        "skill": {
+            "name": "Yanfei",
+            "abilityName": "Signed Edict",
+            "type": "skill",
+            "imageSource": "https://static.wikia.nocookie.net/gensin-impact/images/a/a3/Talent_Signed_Edict.png/revision/latest"
+        },
+        "burst": {
+            "name": "Yanfei",
+            "abilityName": "Done Deal",
+            "type": "burst",
+            "imageSource": "https://static.wikia.nocookie.net/gensin-impact/images/9/96/Talent_Done_Deal.png/revision/latest"
+        }
+    },
+    "venti": {
+        "skill": {
+            "name": "Venti",
+            "abilityName": "Skyward Sonnet",
+            "type": "skill",
+            "imageSource": "https://static.wikia.nocookie.net/gensin-impact/images/1/17/Talent_Skyward_Sonnet.png/revision/latest"
+        },
+        "burst": {
+            "name": "Venti",
+            "abilityName": "Wind's Grand Ode",
+            "type": "burst",
+            "imageSource": "https://static.wikia.nocookie.net/gensin-impact/images/3/32/Talent_Wind%27s_Grand_Ode.png/revision/latest"
+        }
+    },
+    "chongyun": {
+        "skill": {
+            "name": "Chongyun",
+            "abilityName": "Spirit Blade: Chonghua's Layered Frost",
+            "type": "skill",
+            "imageSource": "https://static.wikia.nocookie.net/gensin-impact/images/a/aa/Talent_Spirit_Blade_Chonghua%27s_Layered_Frost.png/revision/latest"
+        },
+        "burst": {
+            "name": "Chongyun",
+            "abilityName": "Spirit Blade: Cloud-Parting Star",
+            "type": "burst",
+            "imageSource": "https://static.wikia.nocookie.net/gensin-impact/images/9/93/Talent_Spirit_Blade_Cloud-Parting_Star.png/revision/latest"
+        }
+    },
+    "chasca": {
+        "skill": {
+            "name": "Chasca",
+            "abilityName": "Spirit Reins, Shadow Hunt",
+            "type": "skill",
+            "imageSource": "https://static.wikia.nocookie.net/gensin-impact/images/7/74/Talent_Spirit_Reins%2C_Shadow_Hunt.png/revision/latest"
+        },
+        "burst": {
+            "name": "Chasca",
+            "abilityName": "Soul Reaper's Fatal Round",
+            "type": "burst",
+            "imageSource": "https://static.wikia.nocookie.net/gensin-impact/images/c/ca/Talent_Soul_Reaper%27s_Fatal_Round.png/revision/latest"
+        }
+    },
+    "dori": {
+        "skill": {
+            "name": "Dori",
+            "abilityName": "Spirit-Warding Lamp: Troubleshooter Cannon",
+            "type": "skill",
+            "imageSource": "https://static.wikia.nocookie.net/gensin-impact/images/c/c8/Talent_Spirit-Warding_Lamp_Troubleshooter_Cannon.png/revision/latest"
+        },
+        "burst": {
+            "name": "Dori",
+            "abilityName": "Alcazarzaray's Exactitude",
+            "type": "burst",
+            "imageSource": "https://static.wikia.nocookie.net/gensin-impact/images/7/77/Talent_Alcazarzaray%27s_Exactitude.png/revision/latest"
+        }
+    },
+    "shenhe": {
+        "skill": {
+            "name": "Shenhe",
+            "abilityName": "Spring Spirit Summoning",
+            "type": "skill",
+            "imageSource": "https://static.wikia.nocookie.net/gensin-impact/images/6/6c/Talent_Spring_Spirit_Summoning.png/revision/latest"
+        },
+        "burst": {
+            "name": "Shenhe",
+            "abilityName": "Divine Maiden's Deliverance",
+            "type": "burst",
+            "imageSource": "https://static.wikia.nocookie.net/gensin-impact/images/d/d5/Talent_Divine_Maiden%27s_Deliverance.png/revision/latest"
+        }
+    },
+    "mika": {
+        "skill": {
+            "name": "Mika",
+            "abilityName": "Starfrost Swirl",
+            "type": "skill",
+            "imageSource": "https://static.wikia.nocookie.net/gensin-impact/images/c/c1/Talent_Starfrost_Swirl.png/revision/latest"
+        },
+        "burst": {
+            "name": "Mika",
+            "abilityName": "Skyfeather Song",
+            "type": "burst",
+            "imageSource": "https://static.wikia.nocookie.net/gensin-impact/images/7/7a/Talent_Skyfeather_Song.png/revision/latest"
+        }
+    },
+    "keqing": {
+        "skill": {
+            "name": "Keqing",
+            "abilityName": "Stellar Restoration",
+            "type": "skill",
+            "imageSource": "https://static.wikia.nocookie.net/gensin-impact/images/5/5a/Talent_Stellar_Restoration.png/revision/latest"
+        },
+        "burst": {
+            "name": "Keqing",
+            "abilityName": "Starward Sword",
+            "type": "burst",
+            "imageSource": "https://static.wikia.nocookie.net/gensin-impact/images/1/14/Talent_Starward_Sword.png/revision/latest"
+        }
+    },
+    "mualani": {
+        "skill": {
+            "name": "Mualani",
+            "abilityName": "Surfshark Wavebreaker",
+            "type": "skill",
+            "imageSource": "https://static.wikia.nocookie.net/gensin-impact/images/4/47/Talent_Surfshark_Wavebreaker.png/revision/latest"
+        },
+        "burst": {
+            "name": "Mualani",
+            "abilityName": "Boomsharka-laka",
+            "type": "burst",
+            "imageSource": "https://static.wikia.nocookie.net/gensin-impact/images/4/48/Talent_Boomsharka-laka.png/revision/latest"
+        }
+    },
+    "lan yan": {
+        "skill": {
+            "name": "Lan Yan",
+            "abilityName": "Swallow-Wisp Pinion Dance",
+            "type": "skill",
+            "imageSource": "https://static.wikia.nocookie.net/gensin-impact/images/8/8b/Talent_Swallow-Wisp_Pinion_Dance.png/revision/latest"
+        },
+        "burst": {
+            "name": "Lan Yan",
+            "abilityName": "Lustrous Moonrise",
+            "type": "burst",
+            "imageSource": "https://static.wikia.nocookie.net/gensin-impact/images/b/bd/Talent_Lustrous_Moonrise.png/revision/latest"
+        }
+    },
+    "xinyan": {
+        "skill": {
+            "name": "Xinyan",
+            "abilityName": "Sweeping Fervor",
+            "type": "skill",
+            "imageSource": "https://static.wikia.nocookie.net/gensin-impact/images/8/85/Talent_Sweeping_Fervor.png/revision/latest"
+        },
+        "burst": {
+            "name": "Xinyan",
+            "abilityName": "Riff Revolution",
+            "type": "burst",
+            "imageSource": "https://static.wikia.nocookie.net/gensin-impact/images/0/06/Talent_Riff_Revolution.png/revision/latest"
+        }
+    },
+    "kujou sara": {
+        "skill": {
+            "name": "Kujou Sara",
+            "abilityName": "Tengu Stormcall",
+            "type": "skill",
+            "imageSource": "https://static.wikia.nocookie.net/gensin-impact/images/6/6a/Talent_Tengu_Stormcall.png/revision/latest"
+        },
+        "burst": {
+            "name": "Kujou Sara",
+            "abilityName": "Subjugation: Koukou Sendou",
+            "type": "burst",
+            "imageSource": "https://static.wikia.nocookie.net/gensin-impact/images/e/e8/Talent_Subjugation_Koukou_Sendou.png/revision/latest"
+        }
+    },
+    "mavuika": {
+        "skill": {
+            "name": "Mavuika",
+            "abilityName": "The Named Moment",
+            "type": "skill",
+            "imageSource": "https://static.wikia.nocookie.net/gensin-impact/images/b/b1/Talent_The_Named_Moment.png/revision/latest"
+        },
+        "burst": {
+            "name": "Mavuika",
+            "abilityName": "Hour of Burning Skies",
+            "type": "burst",
+            "imageSource": "https://static.wikia.nocookie.net/gensin-impact/images/5/5d/Talent_Hour_of_Burning_Skies.png/revision/latest"
+        }
+    },
+    "beidou": {
+        "skill": {
+            "name": "Beidou",
+            "abilityName": "Tidecaller",
+            "type": "skill",
+            "imageSource": "https://static.wikia.nocookie.net/gensin-impact/images/9/92/Talent_Tidecaller.png/revision/latest"
+        },
+        "burst": {
+            "name": "Beidou",
+            "abilityName": "Stormbreaker",
+            "type": "burst",
+            "imageSource": "https://static.wikia.nocookie.net/gensin-impact/images/3/33/Talent_Stormbreaker.png/revision/latest"
+        }
+    },
+    "ganyu": {
+        "skill": {
+            "name": "Ganyu",
+            "abilityName": "Trail of the Qilin",
+            "type": "skill",
+            "imageSource": "https://static.wikia.nocookie.net/gensin-impact/images/d/d1/Talent_Trail_of_the_Qilin.png/revision/latest"
+        },
+        "burst": {
+            "name": "Ganyu",
+            "abilityName": "Celestial Shower",
+            "type": "burst",
+            "imageSource": "https://static.wikia.nocookie.net/gensin-impact/images/4/47/Talent_Celestial_Shower.png/revision/latest"
+        }
+    },
+    "raiden shogun": {
+        "skill": {
+            "name": "Raiden Shogun",
+            "abilityName": "Transcendence: Baleful Omen",
+            "type": "skill",
+            "imageSource": "https://static.wikia.nocookie.net/gensin-impact/images/3/3c/Talent_Transcendence_Baleful_Omen.png/revision/latest"
+        },
+        "burst": {
+            "name": "Raiden Shogun",
+            "abilityName": "Secret Art: Musou Shinsetsu",
+            "type": "burst",
+            "imageSource": "https://static.wikia.nocookie.net/gensin-impact/images/e/e0/Talent_Secret_Art_Musou_Shinsetsu.png/revision/latest"
+        }
+    },
+    "baizhu": {
+        "skill": {
+            "name": "Baizhu",
+            "abilityName": "Universal Diagnosis",
+            "type": "skill",
+            "imageSource": "https://static.wikia.nocookie.net/gensin-impact/images/6/69/Talent_Universal_Diagnosis.png/revision/latest"
+        },
+        "burst": {
+            "name": "Baizhu",
+            "abilityName": "Holistic Revivification",
+            "type": "burst",
+            "imageSource": "https://static.wikia.nocookie.net/gensin-impact/images/1/1b/Talent_Holistic_Revivification.png/revision/latest"
+        }
+    },
+    "alhaitham": {
+        "skill": {
+            "name": "Alhaitham",
+            "abilityName": "Universality: An Elaboration on Form",
+            "type": "skill",
+            "imageSource": "https://static.wikia.nocookie.net/gensin-impact/images/2/29/Talent_Universality_An_Elaboration_on_Form.png/revision/latest"
+        },
+        "burst": {
+            "name": "Alhaitham",
+            "abilityName": "Particular Field: Fetters of Phenomena",
+            "type": "burst",
+            "imageSource": "https://static.wikia.nocookie.net/gensin-impact/images/0/08/Talent_Particular_Field_Fetters_of_Phenomena.png/revision/latest"
+        }
+    },
+    "tighnari": {
+        "skill": {
+            "name": "Tighnari",
+            "abilityName": "Vijnana-Phala Mine",
+            "type": "skill",
+            "imageSource": "https://static.wikia.nocookie.net/gensin-impact/images/f/f9/Talent_Vijnana-Phala_Mine.png/revision/latest"
+        },
+        "burst": {
+            "name": "Tighnari",
+            "abilityName": "Fashioner's Tanglevine Shaft",
+            "type": "burst",
+            "imageSource": "https://static.wikia.nocookie.net/gensin-impact/images/3/30/Talent_Fashioner%27s_Tanglevine_Shaft.png/revision/latest"
+        }
+    },
+    "lisa": {
+        "skill": {
+            "name": "Lisa",
+            "abilityName": "Violet Arc",
+            "type": "skill",
+            "imageSource": "https://static.wikia.nocookie.net/gensin-impact/images/c/c8/Talent_Violet_Arc.png/revision/latest"
+        },
+        "burst": {
+            "name": "Lisa",
+            "abilityName": "Lightning Rose",
+            "type": "burst",
+            "imageSource": "https://static.wikia.nocookie.net/gensin-impact/images/f/fd/Talent_Lightning_Rose.png/revision/latest"
+        }
+    },
+    "xianyun": {
+        "skill": {
+            "name": "Xianyun",
+            "abilityName": "White Clouds at Dawn",
+            "type": "skill",
+            "imageSource": "https://static.wikia.nocookie.net/gensin-impact/images/8/89/Talent_White_Clouds_at_Dawn.png/revision/latest"
+        },
+        "burst": {
+            "name": "Xianyun",
+            "abilityName": "Stars Gather at Dusk",
+            "type": "burst",
+            "imageSource": "https://static.wikia.nocookie.net/gensin-impact/images/2/28/Talent_Stars_Gather_at_Dusk.png/revision/latest"
+        }
+    },
+    "faruzan": {
+        "skill": {
+            "name": "Faruzan",
+            "abilityName": "Wind Realm of Nasamjnin",
+            "type": "skill",
+            "imageSource": "https://static.wikia.nocookie.net/gensin-impact/images/4/46/Talent_Wind_Realm_of_Nasamjnin.png/revision/latest"
+        },
+        "burst": {
+            "name": "Faruzan",
+            "abilityName": "The Wind's Secret Ways",
+            "type": "burst",
+            "imageSource": "https://static.wikia.nocookie.net/gensin-impact/images/f/fc/Talent_The_Wind%27s_Secret_Ways.png/revision/latest"
+        }
+    },
+    "yae miko": {
+        "skill": {
+            "name": "Yae Miko",
+            "abilityName": "Yakan Evocation: Sesshou Sakura",
+            "type": "skill",
+            "imageSource": "https://static.wikia.nocookie.net/gensin-impact/images/9/93/Talent_Yakan_Evocation_Sesshou_Sakura.png/revision/latest"
+        },
+        "burst": {
+            "name": "Yae Miko",
+            "abilityName": "Great Secret Art: Tenko Kenshin",
+            "type": "burst",
+            "imageSource": "https://static.wikia.nocookie.net/gensin-impact/images/9/93/Talent_Great_Secret_Art_Tenko_Kenshin.png/revision/latest"
+        }
+    },
+    "xilonen": {
+        "skill": {
+            "name": "Xilonen",
+            "abilityName": "Yohual's Scratch",
+            "type": "skill",
+            "imageSource": "https://static.wikia.nocookie.net/gensin-impact/images/a/a1/Talent_Yohual%27s_Scratch.png/revision/latest"
+        },
+        "burst": {
+            "name": "Xilonen",
+            "abilityName": "Ocelotlicue Point!",
+            "type": "burst",
+            "imageSource": "https://static.wikia.nocookie.net/gensin-impact/images/1/16/Talent_Ocelotlicue_Point%21.png/revision/latest"
+        }
+    },
+    "sayu": {
+        "skill": {
+            "name": "Sayu",
+            "abilityName": "Yoohoo Art: Fuuin Dash",
+            "type": "skill",
+            "imageSource": "https://static.wikia.nocookie.net/gensin-impact/images/4/4b/Talent_Yoohoo_Art_Fuuin_Dash.png/revision/latest"
+        },
+        "burst": {
+            "name": "Sayu",
+            "abilityName": "Yoohoo Art: Mujina Flurry",
+            "type": "burst",
+            "imageSource": "https://static.wikia.nocookie.net/gensin-impact/images/b/be/Talent_Yoohoo_Art_Mujina_Flurry.png/revision/latest"
+        }
+    }
+}

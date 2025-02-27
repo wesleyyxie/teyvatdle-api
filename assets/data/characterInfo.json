@@ -1,0 +1,848 @@
+{
+    "albedo": {
+        "name": "Albedo",
+        "vision": "Geo",
+        "weapon": "Sword",
+        "region": "Mondstadt",
+        "iconSource": "https://static.wikia.nocookie.net/gensin-impact/images/3/30/Albedo_Icon.png/revision/latest",
+        "gender": "Male",
+        "release": "2020"
+    },
+    "alhaitham": {
+        "name": "Alhaitham",
+        "vision": "Dendro",
+        "weapon": "Sword",
+        "region": "Sumeru",
+        "iconSource": "https://static.wikia.nocookie.net/gensin-impact/images/2/2c/Alhaitham_Icon.png/revision/latest",
+        "gender": "Male",
+        "release": "2023"
+    },
+    "aloy": {
+        "name": "Aloy",
+        "vision": "Cryo",
+        "weapon": "Bow",
+        "region": "Unknown",
+        "iconSource": "https://static.wikia.nocookie.net/gensin-impact/images/e/e5/Aloy_Icon.png/revision/latest",
+        "gender": "Female",
+        "release": "2021"
+    },
+    "amber": {
+        "name": "Amber",
+        "vision": "Pyro",
+        "weapon": "Bow",
+        "region": "Mondstadt",
+        "iconSource": "https://static.wikia.nocookie.net/gensin-impact/images/7/75/Amber_Icon.png/revision/latest",
+        "gender": "Female",
+        "release": "2020"
+    },
+    "arataki itto": {
+        "name": "Arataki Itto",
+        "vision": "Geo",
+        "weapon": "Claymore",
+        "region": "Inazuma",
+        "iconSource": "https://static.wikia.nocookie.net/gensin-impact/images/7/7b/Arataki_Itto_Icon.png/revision/latest",
+        "gender": "Male",
+        "release": "2021"
+    },
+    "arlecchino": {
+        "name": "Arlecchino",
+        "vision": "Pyro",
+        "weapon": "Polearm",
+        "region": "Snezhnaya",
+        "iconSource": "https://static.wikia.nocookie.net/gensin-impact/images/9/9a/Arlecchino_Icon.png/revision/latest",
+        "gender": "Female",
+        "release": "2024"
+    },
+    "baizhu": {
+        "name": "Baizhu",
+        "vision": "Dendro",
+        "weapon": "Catalyst",
+        "region": "Liyue",
+        "iconSource": "https://static.wikia.nocookie.net/gensin-impact/images/c/cb/Baizhu_Icon.png/revision/latest",
+        "gender": "Male",
+        "release": "2023"
+    },
+    "barbara": {
+        "name": "Barbara",
+        "vision": "Hydro",
+        "weapon": "Catalyst",
+        "region": "Mondstadt",
+        "iconSource": "https://static.wikia.nocookie.net/gensin-impact/images/6/6a/Barbara_Icon.png/revision/latest",
+        "gender": "Female",
+        "release": "2020"
+    },
+    "beidou": {
+        "name": "Beidou",
+        "vision": "Electro",
+        "weapon": "Claymore",
+        "region": "Liyue",
+        "iconSource": "https://static.wikia.nocookie.net/gensin-impact/images/e/e1/Beidou_Icon.png/revision/latest",
+        "gender": "Female",
+        "release": "2020"
+    },
+    "bennett": {
+        "name": "Bennett",
+        "vision": "Pyro",
+        "weapon": "Sword",
+        "region": "Mondstadt",
+        "iconSource": "https://static.wikia.nocookie.net/gensin-impact/images/7/79/Bennett_Icon.png/revision/latest",
+        "gender": "Male",
+        "release": "2020"
+    },
+    "candace": {
+        "name": "Candace",
+        "vision": "Hydro",
+        "weapon": "Polearm",
+        "region": "Sumeru",
+        "iconSource": "https://static.wikia.nocookie.net/gensin-impact/images/d/dd/Candace_Icon.png/revision/latest",
+        "gender": "Female",
+        "release": "2022"
+    },
+    "charlotte": {
+        "name": "Charlotte",
+        "vision": "Cryo",
+        "weapon": "Catalyst",
+        "region": "Fontaine",
+        "iconSource": "https://static.wikia.nocookie.net/gensin-impact/images/d/d2/Charlotte_Icon.png/revision/latest",
+        "gender": "Female",
+        "release": "2023"
+    },
+    "chasca": {
+        "name": "Chasca",
+        "vision": "Anemo",
+        "weapon": "Bow",
+        "region": "Natlan",
+        "iconSource": "https://static.wikia.nocookie.net/gensin-impact/images/0/03/Chasca_Icon.png/revision/latest",
+        "gender": "Female",
+        "release": "2024"
+    },
+    "chevreuse": {
+        "name": "Chevreuse",
+        "vision": "Pyro",
+        "weapon": "Polearm",
+        "region": "Fontaine",
+        "iconSource": "https://static.wikia.nocookie.net/gensin-impact/images/8/8a/Chevreuse_Icon.png/revision/latest",
+        "gender": "Female",
+        "release": "2024"
+    },
+    "chiori": {
+        "name": "Chiori",
+        "vision": "Geo",
+        "weapon": "Sword",
+        "region": "Inazuma",
+        "iconSource": "https://static.wikia.nocookie.net/gensin-impact/images/8/88/Chiori_Icon.png/revision/latest",
+        "gender": "Female",
+        "release": "2024"
+    },
+    "chongyun": {
+        "name": "Chongyun",
+        "vision": "Cryo",
+        "weapon": "Claymore",
+        "region": "Liyue",
+        "iconSource": "https://static.wikia.nocookie.net/gensin-impact/images/3/35/Chongyun_Icon.png/revision/latest",
+        "gender": "Male",
+        "release": "2020"
+    },
+    "citlali": {
+        "name": "Citlali",
+        "vision": "Cryo",
+        "weapon": "Catalyst",
+        "region": "Natlan",
+        "iconSource": "https://static.wikia.nocookie.net/gensin-impact/images/d/dd/Citlali_Icon.png/revision/latest",
+        "gender": "Female",
+        "release": "2025"
+    },
+    "clorinde": {
+        "name": "Clorinde",
+        "vision": "Electro",
+        "weapon": "Sword",
+        "region": "Fontaine",
+        "iconSource": "https://static.wikia.nocookie.net/gensin-impact/images/5/5b/Clorinde_Icon.png/revision/latest",
+        "gender": "Female",
+        "release": "2024"
+    },
+    "collei": {
+        "name": "Collei",
+        "vision": "Dendro",
+        "weapon": "Bow",
+        "region": "Sumeru",
+        "iconSource": "https://static.wikia.nocookie.net/gensin-impact/images/a/a2/Collei_Icon.png/revision/latest",
+        "gender": "Female",
+        "release": "2022"
+    },
+    "cyno": {
+        "name": "Cyno",
+        "vision": "Electro",
+        "weapon": "Polearm",
+        "region": "Sumeru",
+        "iconSource": "https://static.wikia.nocookie.net/gensin-impact/images/3/31/Cyno_Icon.png/revision/latest",
+        "gender": "Male",
+        "release": "2022"
+    },
+    "dehya": {
+        "name": "Dehya",
+        "vision": "Pyro",
+        "weapon": "Claymore",
+        "region": "Sumeru",
+        "iconSource": "https://static.wikia.nocookie.net/gensin-impact/images/3/3f/Dehya_Icon.png/revision/latest",
+        "gender": "Female",
+        "release": "2023"
+    },
+    "diluc": {
+        "name": "Diluc",
+        "vision": "Pyro",
+        "weapon": "Claymore",
+        "region": "Mondstadt",
+        "iconSource": "https://static.wikia.nocookie.net/gensin-impact/images/3/3d/Diluc_Icon.png/revision/latest",
+        "gender": "Male",
+        "release": "2020"
+    },
+    "diona": {
+        "name": "Diona",
+        "vision": "Cryo",
+        "weapon": "Bow",
+        "region": "Mondstadt",
+        "iconSource": "https://static.wikia.nocookie.net/gensin-impact/images/4/40/Diona_Icon.png/revision/latest",
+        "gender": "Female",
+        "release": "2020"
+    },
+    "dori": {
+        "name": "Dori",
+        "vision": "Electro",
+        "weapon": "Claymore",
+        "region": "Sumeru",
+        "iconSource": "https://static.wikia.nocookie.net/gensin-impact/images/5/54/Dori_Icon.png/revision/latest",
+        "gender": "Female",
+        "release": "2022"
+    },
+    "emilie": {
+        "name": "Emilie",
+        "vision": "Dendro",
+        "weapon": "Polearm",
+        "region": "Fontaine",
+        "iconSource": "https://static.wikia.nocookie.net/gensin-impact/images/a/aa/Emilie_Icon.png/revision/latest",
+        "gender": "Female",
+        "release": "2024"
+    },
+    "eula": {
+        "name": "Eula",
+        "vision": "Cryo",
+        "weapon": "Claymore",
+        "region": "Mondstadt",
+        "iconSource": "https://static.wikia.nocookie.net/gensin-impact/images/a/af/Eula_Icon.png/revision/latest",
+        "gender": "Female",
+        "release": "2021"
+    },
+    "faruzan": {
+        "name": "Faruzan",
+        "vision": "Anemo",
+        "weapon": "Bow",
+        "region": "Sumeru",
+        "iconSource": "https://static.wikia.nocookie.net/gensin-impact/images/b/b2/Faruzan_Icon.png/revision/latest",
+        "gender": "Female",
+        "release": "2022"
+    },
+    "fischl": {
+        "name": "Fischl",
+        "vision": "Electro",
+        "weapon": "Bow",
+        "region": "Mondstadt",
+        "iconSource": "https://static.wikia.nocookie.net/gensin-impact/images/9/9a/Fischl_Icon.png/revision/latest",
+        "gender": "Female",
+        "release": "2020"
+    },
+    "freminet": {
+        "name": "Freminet",
+        "vision": "Cryo",
+        "weapon": "Claymore",
+        "region": "Fontaine",
+        "iconSource": "https://static.wikia.nocookie.net/gensin-impact/images/e/ee/Freminet_Icon.png/revision/latest",
+        "gender": "Male",
+        "release": "2023"
+    },
+    "furina": {
+        "name": "Furina",
+        "vision": "Hydro",
+        "weapon": "Sword",
+        "region": "Fontaine",
+        "iconSource": "https://static.wikia.nocookie.net/gensin-impact/images/e/e6/Furina_Icon.png/revision/latest",
+        "gender": "Female",
+        "release": "2023"
+    },
+    "gaming": {
+        "name": "Gaming",
+        "vision": "Pyro",
+        "weapon": "Claymore",
+        "region": "Liyue",
+        "iconSource": "https://static.wikia.nocookie.net/gensin-impact/images/7/77/Gaming_Icon.png/revision/latest",
+        "gender": "Male",
+        "release": "2024"
+    },
+    "ganyu": {
+        "name": "Ganyu",
+        "vision": "Cryo",
+        "weapon": "Bow",
+        "region": "Liyue",
+        "iconSource": "https://static.wikia.nocookie.net/gensin-impact/images/7/79/Ganyu_Icon.png/revision/latest",
+        "gender": "Female",
+        "release": "2021"
+    },
+    "gorou": {
+        "name": "Gorou",
+        "vision": "Geo",
+        "weapon": "Bow",
+        "region": "Inazuma",
+        "iconSource": "https://static.wikia.nocookie.net/gensin-impact/images/f/fe/Gorou_Icon.png/revision/latest",
+        "gender": "Male",
+        "release": "2021"
+    },
+    "hu tao": {
+        "name": "Hu Tao",
+        "vision": "Pyro",
+        "weapon": "Polearm",
+        "region": "Liyue",
+        "iconSource": "https://static.wikia.nocookie.net/gensin-impact/images/e/e9/Hu_Tao_Icon.png/revision/latest",
+        "gender": "Female",
+        "release": "2021"
+    },
+    "jean": {
+        "name": "Jean",
+        "vision": "Anemo",
+        "weapon": "Sword",
+        "region": "Mondstadt",
+        "iconSource": "https://static.wikia.nocookie.net/gensin-impact/images/6/64/Jean_Icon.png/revision/latest",
+        "gender": "Female",
+        "release": "2020"
+    },
+    "kachina": {
+        "name": "Kachina",
+        "vision": "Geo",
+        "weapon": "Polearm",
+        "region": "Natlan",
+        "iconSource": "https://static.wikia.nocookie.net/gensin-impact/images/1/1a/Kachina_Icon.png/revision/latest",
+        "gender": "Female",
+        "release": "2024"
+    },
+    "kaedehara kazuha": {
+        "name": "Kaedehara Kazuha",
+        "vision": "Anemo",
+        "weapon": "Sword",
+        "region": "Inazuma",
+        "iconSource": "https://static.wikia.nocookie.net/gensin-impact/images/e/e3/Kaedehara_Kazuha_Icon.png/revision/latest",
+        "gender": "Male",
+        "release": "2021"
+    },
+    "kaeya": {
+        "name": "Kaeya",
+        "vision": "Cryo",
+        "weapon": "Sword",
+        "region": "Mondstadt",
+        "iconSource": "https://static.wikia.nocookie.net/gensin-impact/images/b/b6/Kaeya_Icon.png/revision/latest",
+        "gender": "Male",
+        "release": "2020"
+    },
+    "kamisato ayaka": {
+        "name": "Kamisato Ayaka",
+        "vision": "Cryo",
+        "weapon": "Sword",
+        "region": "Inazuma",
+        "iconSource": "https://static.wikia.nocookie.net/gensin-impact/images/5/51/Kamisato_Ayaka_Icon.png/revision/latest",
+        "gender": "Female",
+        "release": "2021"
+    },
+    "kamisato ayato": {
+        "name": "Kamisato Ayato",
+        "vision": "Hydro",
+        "weapon": "Sword",
+        "region": "Inazuma",
+        "iconSource": "https://static.wikia.nocookie.net/gensin-impact/images/2/27/Kamisato_Ayato_Icon.png/revision/latest",
+        "gender": "Male",
+        "release": "2022"
+    },
+    "kaveh": {
+        "name": "Kaveh",
+        "vision": "Dendro",
+        "weapon": "Claymore",
+        "region": "Sumeru",
+        "iconSource": "https://static.wikia.nocookie.net/gensin-impact/images/1/1f/Kaveh_Icon.png/revision/latest",
+        "gender": "Male",
+        "release": "2023"
+    },
+    "keqing": {
+        "name": "Keqing",
+        "vision": "Electro",
+        "weapon": "Sword",
+        "region": "Liyue",
+        "iconSource": "https://static.wikia.nocookie.net/gensin-impact/images/5/52/Keqing_Icon.png/revision/latest",
+        "gender": "Female",
+        "release": "2020"
+    },
+    "kinich": {
+        "name": "Kinich",
+        "vision": "Dendro",
+        "weapon": "Claymore",
+        "region": "Natlan",
+        "iconSource": "https://static.wikia.nocookie.net/gensin-impact/images/9/9a/Kinich_Icon.png/revision/latest",
+        "gender": "Male",
+        "release": "2024"
+    },
+    "kirara": {
+        "name": "Kirara",
+        "vision": "Dendro",
+        "weapon": "Sword",
+        "region": "Inazuma",
+        "iconSource": "https://static.wikia.nocookie.net/gensin-impact/images/b/b6/Kirara_Icon.png/revision/latest",
+        "gender": "Female",
+        "release": "2023"
+    },
+    "klee": {
+        "name": "Klee",
+        "vision": "Pyro",
+        "weapon": "Catalyst",
+        "region": "Mondstadt",
+        "iconSource": "https://static.wikia.nocookie.net/gensin-impact/images/9/9c/Klee_Icon.png/revision/latest",
+        "gender": "Female",
+        "release": "2020"
+    },
+    "kujou sara": {
+        "name": "Kujou Sara",
+        "vision": "Electro",
+        "weapon": "Bow",
+        "region": "Inazuma",
+        "iconSource": "https://static.wikia.nocookie.net/gensin-impact/images/d/df/Kujou_Sara_Icon.png/revision/latest",
+        "gender": "Female",
+        "release": "2021"
+    },
+    "kuki shinobu": {
+        "name": "Kuki Shinobu",
+        "vision": "Electro",
+        "weapon": "Sword",
+        "region": "Inazuma",
+        "iconSource": "https://static.wikia.nocookie.net/gensin-impact/images/b/b3/Kuki_Shinobu_Icon.png/revision/latest",
+        "gender": "Female",
+        "release": "2022"
+    },
+    "lan yan": {
+        "name": "Lan Yan",
+        "vision": "Anemo",
+        "weapon": "Catalyst",
+        "region": "Liyue",
+        "iconSource": "https://static.wikia.nocookie.net/gensin-impact/images/e/e6/Lan_Yan_Icon.png/revision/latest",
+        "gender": "Female",
+        "release": "2025"
+    },
+    "layla": {
+        "name": "Layla",
+        "vision": "Cryo",
+        "weapon": "Sword",
+        "region": "Sumeru",
+        "iconSource": "https://static.wikia.nocookie.net/gensin-impact/images/1/1a/Layla_Icon.png/revision/latest",
+        "gender": "Female",
+        "release": "2022"
+    },
+    "lisa": {
+        "name": "Lisa",
+        "vision": "Electro",
+        "weapon": "Catalyst",
+        "region": "Mondstadt",
+        "iconSource": "https://static.wikia.nocookie.net/gensin-impact/images/6/65/Lisa_Icon.png/revision/latest",
+        "gender": "Female",
+        "release": "2020"
+    },
+    "lynette": {
+        "name": "Lynette",
+        "vision": "Anemo",
+        "weapon": "Sword",
+        "region": "Fontaine",
+        "iconSource": "https://static.wikia.nocookie.net/gensin-impact/images/a/ad/Lynette_Icon.png/revision/latest",
+        "gender": "Female",
+        "release": "2023"
+    },
+    "lyney": {
+        "name": "Lyney",
+        "vision": "Pyro",
+        "weapon": "Bow",
+        "region": "Fontaine",
+        "iconSource": "https://static.wikia.nocookie.net/gensin-impact/images/b/b2/Lyney_Icon.png/revision/latest",
+        "gender": "Male",
+        "release": "2023"
+    },
+    "mavuika": {
+        "name": "Mavuika",
+        "vision": "Pyro",
+        "weapon": "Claymore",
+        "region": "Natlan",
+        "iconSource": "https://static.wikia.nocookie.net/gensin-impact/images/d/da/Mavuika_Icon.png/revision/latest",
+        "gender": "Female",
+        "release": "2025"
+    },
+    "mika": {
+        "name": "Mika",
+        "vision": "Cryo",
+        "weapon": "Polearm",
+        "region": "Mondstadt",
+        "iconSource": "https://static.wikia.nocookie.net/gensin-impact/images/d/dd/Mika_Icon.png/revision/latest",
+        "gender": "Male",
+        "release": "2023"
+    },
+    "mona": {
+        "name": "Mona",
+        "vision": "Hydro",
+        "weapon": "Catalyst",
+        "region": "Mondstadt",
+        "iconSource": "https://static.wikia.nocookie.net/gensin-impact/images/4/41/Mona_Icon.png/revision/latest",
+        "gender": "Female",
+        "release": "2020"
+    },
+    "mualani": {
+        "name": "Mualani",
+        "vision": "Hydro",
+        "weapon": "Catalyst",
+        "region": "Natlan",
+        "iconSource": "https://static.wikia.nocookie.net/gensin-impact/images/0/0b/Mualani_Icon.png/revision/latest",
+        "gender": "Female",
+        "release": "2024"
+    },
+    "nahida": {
+        "name": "Nahida",
+        "vision": "Dendro",
+        "weapon": "Catalyst",
+        "region": "Sumeru",
+        "iconSource": "https://static.wikia.nocookie.net/gensin-impact/images/f/f9/Nahida_Icon.png/revision/latest",
+        "gender": "Female",
+        "release": "2022"
+    },
+    "navia": {
+        "name": "Navia",
+        "vision": "Geo",
+        "weapon": "Claymore",
+        "region": "Fontaine",
+        "iconSource": "https://static.wikia.nocookie.net/gensin-impact/images/c/c0/Navia_Icon.png/revision/latest",
+        "gender": "Female",
+        "release": "2023"
+    },
+    "neuvillette": {
+        "name": "Neuvillette",
+        "vision": "Hydro",
+        "weapon": "Catalyst",
+        "region": "Fontaine",
+        "iconSource": "https://static.wikia.nocookie.net/gensin-impact/images/2/21/Neuvillette_Icon.png/revision/latest",
+        "gender": "Male",
+        "release": "2023"
+    },
+    "nilou": {
+        "name": "Nilou",
+        "vision": "Hydro",
+        "weapon": "Sword",
+        "region": "Sumeru",
+        "iconSource": "https://static.wikia.nocookie.net/gensin-impact/images/5/58/Nilou_Icon.png/revision/latest",
+        "gender": "Female",
+        "release": "2022"
+    },
+    "ningguang": {
+        "name": "Ningguang",
+        "vision": "Geo",
+        "weapon": "Catalyst",
+        "region": "Liyue",
+        "iconSource": "https://static.wikia.nocookie.net/gensin-impact/images/e/e0/Ningguang_Icon.png/revision/latest",
+        "gender": "Female",
+        "release": "2020"
+    },
+    "noelle": {
+        "name": "Noelle",
+        "vision": "Geo",
+        "weapon": "Claymore",
+        "region": "Mondstadt",
+        "iconSource": "https://static.wikia.nocookie.net/gensin-impact/images/8/8e/Noelle_Icon.png/revision/latest",
+        "gender": "Female",
+        "release": "2020"
+    },
+    "ororon": {
+        "name": "Ororon",
+        "vision": "Electro",
+        "weapon": "Bow",
+        "region": "Natlan",
+        "iconSource": "https://static.wikia.nocookie.net/gensin-impact/images/5/5e/Ororon_Icon.png/revision/latest",
+        "gender": "Male",
+        "release": "2024"
+    },
+    "qiqi": {
+        "name": "Qiqi",
+        "vision": "Cryo",
+        "weapon": "Sword",
+        "region": "Liyue",
+        "iconSource": "https://static.wikia.nocookie.net/gensin-impact/images/b/b3/Qiqi_Icon.png/revision/latest",
+        "gender": "Female",
+        "release": "2020"
+    },
+    "raiden shogun": {
+        "name": "Raiden Shogun",
+        "vision": "Electro",
+        "weapon": "Polearm",
+        "region": "Inazuma",
+        "iconSource": "https://static.wikia.nocookie.net/gensin-impact/images/2/24/Raiden_Shogun_Icon.png/revision/latest",
+        "gender": "Female",
+        "release": "2021"
+    },
+    "razor": {
+        "name": "Razor",
+        "vision": "Electro",
+        "weapon": "Claymore",
+        "region": "Mondstadt",
+        "iconSource": "https://static.wikia.nocookie.net/gensin-impact/images/b/b8/Razor_Icon.png/revision/latest",
+        "gender": "Male",
+        "release": "2020"
+    },
+    "rosaria": {
+        "name": "Rosaria",
+        "vision": "Cryo",
+        "weapon": "Polearm",
+        "region": "Mondstadt",
+        "iconSource": "https://static.wikia.nocookie.net/gensin-impact/images/3/35/Rosaria_Icon.png/revision/latest",
+        "gender": "Female",
+        "release": "2021"
+    },
+    "sangonomiya kokomi": {
+        "name": "Sangonomiya Kokomi",
+        "vision": "Hydro",
+        "weapon": "Catalyst",
+        "region": "Inazuma",
+        "iconSource": "https://static.wikia.nocookie.net/gensin-impact/images/f/ff/Sangonomiya_Kokomi_Icon.png/revision/latest",
+        "gender": "Female",
+        "release": "2021"
+    },
+    "sayu": {
+        "name": "Sayu",
+        "vision": "Anemo",
+        "weapon": "Claymore",
+        "region": "Inazuma",
+        "iconSource": "https://static.wikia.nocookie.net/gensin-impact/images/2/22/Sayu_Icon.png/revision/latest",
+        "gender": "Female",
+        "release": "2021"
+    },
+    "sethos": {
+        "name": "Sethos",
+        "vision": "Electro",
+        "weapon": "Bow",
+        "region": "Sumeru",
+        "iconSource": "https://static.wikia.nocookie.net/gensin-impact/images/9/90/Sethos_Icon.png/revision/latest",
+        "gender": "Male",
+        "release": "2024"
+    },
+    "shenhe": {
+        "name": "Shenhe",
+        "vision": "Cryo",
+        "weapon": "Polearm",
+        "region": "Liyue",
+        "iconSource": "https://static.wikia.nocookie.net/gensin-impact/images/a/af/Shenhe_Icon.png/revision/latest",
+        "gender": "Female",
+        "release": "2022"
+    },
+    "shikanoin heizou": {
+        "name": "Shikanoin Heizou",
+        "vision": "Anemo",
+        "weapon": "Catalyst",
+        "region": "Inazuma",
+        "iconSource": "https://static.wikia.nocookie.net/gensin-impact/images/2/20/Shikanoin_Heizou_Icon.png/revision/latest",
+        "gender": "Male",
+        "release": "2022"
+    },
+    "sigewinne": {
+        "name": "Sigewinne",
+        "vision": "Hydro",
+        "weapon": "Bow",
+        "region": "Fontaine",
+        "iconSource": "https://static.wikia.nocookie.net/gensin-impact/images/3/37/Sigewinne_Icon.png/revision/latest",
+        "gender": "Female",
+        "release": "2024"
+    },
+    "sucrose": {
+        "name": "Sucrose",
+        "vision": "Anemo",
+        "weapon": "Catalyst",
+        "region": "Mondstadt",
+        "iconSource": "https://static.wikia.nocookie.net/gensin-impact/images/0/0e/Sucrose_Icon.png/revision/latest",
+        "gender": "Female",
+        "release": "2020"
+    },
+    "tartaglia": {
+        "name": "Tartaglia",
+        "vision": "Hydro",
+        "weapon": "Bow",
+        "region": "Snezhnaya",
+        "iconSource": "https://static.wikia.nocookie.net/gensin-impact/images/8/85/Tartaglia_Icon.png/revision/latest",
+        "gender": "Male",
+        "release": "2020"
+    },
+    "thoma": {
+        "name": "Thoma",
+        "vision": "Pyro",
+        "weapon": "Polearm",
+        "region": "Inazuma",
+        "iconSource": "https://static.wikia.nocookie.net/gensin-impact/images/5/5b/Thoma_Icon.png/revision/latest",
+        "gender": "Male",
+        "release": "2021"
+    },
+    "tighnari": {
+        "name": "Tighnari",
+        "vision": "Dendro",
+        "weapon": "Bow",
+        "region": "Sumeru",
+        "iconSource": "https://static.wikia.nocookie.net/gensin-impact/images/8/87/Tighnari_Icon.png/revision/latest",
+        "gender": "Male",
+        "release": "2022"
+    },
+    "venti": {
+        "name": "Venti",
+        "vision": "Anemo",
+        "weapon": "Bow",
+        "region": "Mondstadt",
+        "iconSource": "https://static.wikia.nocookie.net/gensin-impact/images/f/f1/Venti_Icon.png/revision/latest",
+        "gender": "Male",
+        "release": "2020"
+    },
+    "wanderer": {
+        "name": "Wanderer",
+        "vision": "Anemo",
+        "weapon": "Catalyst",
+        "region": "Sumeru",
+        "iconSource": "https://static.wikia.nocookie.net/gensin-impact/images/f/f8/Wanderer_Icon.png/revision/latest",
+        "gender": "Male",
+        "release": "2022"
+    },
+    "wriothesley": {
+        "name": "Wriothesley",
+        "vision": "Cryo",
+        "weapon": "Catalyst",
+        "region": "Fontaine",
+        "iconSource": "https://static.wikia.nocookie.net/gensin-impact/images/b/bb/Wriothesley_Icon.png/revision/latest",
+        "gender": "Male",
+        "release": "2023"
+    },
+    "xiangling": {
+        "name": "Xiangling",
+        "vision": "Pyro",
+        "weapon": "Polearm",
+        "region": "Liyue",
+        "iconSource": "https://static.wikia.nocookie.net/gensin-impact/images/3/39/Xiangling_Icon.png/revision/latest",
+        "gender": "Female",
+        "release": "2020"
+    },
+    "xianyun": {
+        "name": "Xianyun",
+        "vision": "Anemo",
+        "weapon": "Catalyst",
+        "region": "Liyue",
+        "iconSource": "https://static.wikia.nocookie.net/gensin-impact/images/d/d3/Xianyun_Icon.png/revision/latest",
+        "gender": "Female",
+        "release": "2024"
+    },
+    "xiao": {
+        "name": "Xiao",
+        "vision": "Anemo",
+        "weapon": "Polearm",
+        "region": "Liyue",
+        "iconSource": "https://static.wikia.nocookie.net/gensin-impact/images/f/fd/Xiao_Icon.png/revision/latest",
+        "gender": "Male",
+        "release": "2021"
+    },
+    "xilonen": {
+        "name": "Xilonen",
+        "vision": "Geo",
+        "weapon": "Sword",
+        "region": "Natlan",
+        "iconSource": "https://static.wikia.nocookie.net/gensin-impact/images/a/ab/Xilonen_Icon.png/revision/latest",
+        "gender": "Female",
+        "release": "2024"
+    },
+    "xingqiu": {
+        "name": "Xingqiu",
+        "vision": "Hydro",
+        "weapon": "Sword",
+        "region": "Liyue",
+        "iconSource": "https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Xingqiu_Icon.png/revision/latest",
+        "gender": "Male",
+        "release": "2020"
+    },
+    "xinyan": {
+        "name": "Xinyan",
+        "vision": "Pyro",
+        "weapon": "Claymore",
+        "region": "Liyue",
+        "iconSource": "https://static.wikia.nocookie.net/gensin-impact/images/2/24/Xinyan_Icon.png/revision/latest",
+        "gender": "Female",
+        "release": "2020"
+    },
+    "yae miko": {
+        "name": "Yae Miko",
+        "vision": "Electro",
+        "weapon": "Catalyst",
+        "region": "Inazuma",
+        "iconSource": "https://static.wikia.nocookie.net/gensin-impact/images/b/ba/Yae_Miko_Icon.png/revision/latest",
+        "gender": "Female",
+        "release": "2022"
+    },
+    "yanfei": {
+        "name": "Yanfei",
+        "vision": "Pyro",
+        "weapon": "Catalyst",
+        "region": "Liyue",
+        "iconSource": "https://static.wikia.nocookie.net/gensin-impact/images/5/54/Yanfei_Icon.png/revision/latest",
+        "gender": "Female",
+        "release": "2021"
+    },
+    "yaoyao": {
+        "name": "Yaoyao",
+        "vision": "Dendro",
+        "weapon": "Polearm",
+        "region": "Liyue",
+        "iconSource": "https://static.wikia.nocookie.net/gensin-impact/images/8/83/Yaoyao_Icon.png/revision/latest",
+        "gender": "Female",
+        "release": "2023"
+    },
+    "yelan": {
+        "name": "Yelan",
+        "vision": "Hydro",
+        "weapon": "Bow",
+        "region": "Liyue",
+        "iconSource": "https://static.wikia.nocookie.net/gensin-impact/images/d/d3/Yelan_Icon.png/revision/latest",
+        "gender": "Female",
+        "release": "2022"
+    },
+    "yoimiya": {
+        "name": "Yoimiya",
+        "vision": "Pyro",
+        "weapon": "Bow",
+        "region": "Inazuma",
+        "iconSource": "https://static.wikia.nocookie.net/gensin-impact/images/8/88/Yoimiya_Icon.png/revision/latest",
+        "gender": "Female",
+        "release": "2021"
+    },
+    "yumemizuki mizuki": {
+        "name": "Yumemizuki Mizuki",
+        "vision": "Anemo",
+        "weapon": "Catalyst",
+        "region": "Inazuma",
+        "iconSource": "https://static.wikia.nocookie.net/gensin-impact/images/f/f6/Yumemizuki_Mizuki_Icon.png/revision/latest",
+        "gender": "Female",
+        "release": "2025"
+    },
+    "yun jin": {
+        "name": "Yun Jin",
+        "vision": "Geo",
+        "weapon": "Polearm",
+        "region": "Liyue",
+        "iconSource": "https://static.wikia.nocookie.net/gensin-impact/images/9/9c/Yun_Jin_Icon.png/revision/latest",
+        "gender": "Female",
+        "release": "2022"
+    },
+    "zhongli": {
+        "name": "Zhongli",
+        "vision": "Geo",
+        "weapon": "Polearm",
+        "region": "Liyue",
+        "iconSource": "https://static.wikia.nocookie.net/gensin-impact/images/a/a6/Zhongli_Icon.png/revision/latest",
+        "gender": "Male",
+        "release": "2020"
+    }
+}
