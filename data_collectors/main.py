@@ -9,7 +9,7 @@ from voicelines import get_voicelines, download_wav
 import os
 import shutil
 import pyrebase
-import os
+from dotenv import load_dotenv
 
 path_to_audio = "./assets/audios/"
 path_to_images = "./assets/images/"
@@ -19,14 +19,16 @@ path_to_character_splash_pixelated = "./assets/images/character_splashes/pixelat
 path_to_character_splash_nonpixelated = (
     "./assets/images/character_splashes/non-pixelated/"
 )
+
+load_dotenv()
 firebase_config = {
-    "apiKey": "AIzaSyBkfUTPMnUP7tFz7dQmLRbs8-xjskMJZ5M",
-    "authDomain": "teyvatdle-api.firebaseapp.com",
-    "projectId": "teyvatdle-api",
-    "storageBucket": "teyvatdle-api.firebasestorage.app",
-    "messagingSenderId": "409440288658",
-    "appId": "1:409440288658:web:863975c5b015cf3dfc8b4b",
-    "measurementId": "G-D1CF1GCZZ6",
+    "apiKey": os.getenv("API_KEY"),
+    "authDomain": os.getenv("AUTH_DOMAIN"),
+    "projectId": os.getenv("PROJECT_ID"),
+    "storageBucket": os.getenv("STORAGE_BUCKET"),
+    "messagingSenderId": os.getenv("MESSAGING_SENDER_ID"),
+    "appId": os.getenv("APP_ID"),
+    "measurementId": os.getenv("MEASUREMENT_ID"),
     "databaseURL": "",
 }
 
@@ -73,3 +75,11 @@ def update_character_files():
     get_data_and_images()
     upload_to_firebase()
     delete_images_and_audios()
+
+
+firebase = pyrebase.initialize_app(firebase_config)
+auth = firebase.auth()
+user = auth.sign_in_with_email_and_password(os.getenv("EMAIL"), os.getenv("PASSWORD"))
+# print(user)
+storage = firebase.storage()
+storage.child(f"/fsafd").put(f"teyvatdle_logo.png", user["idToken"])
