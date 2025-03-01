@@ -1,10 +1,10 @@
-from abilities_data import get_abilities_data
-from ability_icons import get_ability_icons
-from character_data import get_character_data
-from character_icons import get_character_icons
-from character_splash import get_splashes
-from pixelate_splash_arts import pixelate_images
-from voicelines import get_voicelines, download_wav
+from data_collectors.abilities_data import get_abilities_data
+from data_collectors.ability_icons import get_ability_icons
+from data_collectors.character_data import get_character_data
+from data_collectors.character_icons import get_character_icons
+from data_collectors.character_splash import get_splashes
+from data_collectors.pixelate_splash_arts import pixelate_images
+from data_collectors.voicelines import get_voicelines, download_wav
 
 import os
 import shutil
@@ -22,13 +22,13 @@ path_to_character_splash_nonpixelated = (
 
 load_dotenv()
 firebase_config = {
-    "apiKey": os.getenv("API_KEY"),
-    "authDomain": os.getenv("AUTH_DOMAIN"),
-    "projectId": os.getenv("PROJECT_ID"),
-    "storageBucket": os.getenv("STORAGE_BUCKET"),
-    "messagingSenderId": os.getenv("MESSAGING_SENDER_ID"),
-    "appId": os.getenv("APP_ID"),
-    "measurementId": os.getenv("MEASUREMENT_ID"),
+    "apiKey": os.getenv("FIREBASE_API_KEY"),
+    "authDomain": os.getenv("FIREBASE_AUTH_DOMAIN"),
+    "projectId": os.getenv("FIREBASE_PROJECT_ID"),
+    "storageBucket": os.getenv("FIREBASE_STORAGE_BUCKET"),
+    "messagingSenderId": os.getenv("FIREBASE_MESSAGING_SENDER_ID"),
+    "appId": os.getenv("FIREBASE_APP_ID"),
+    "measurementId": os.getenv("FIREBASE_MEASUREMENT_ID"),
     "databaseURL": "",
 }
 
@@ -79,7 +79,9 @@ def update_character_files():
 
 firebase = pyrebase.initialize_app(firebase_config)
 auth = firebase.auth()
-user = auth.sign_in_with_email_and_password(os.getenv("EMAIL"), os.getenv("PASSWORD"))
+user = auth.sign_in_with_email_and_password(
+    os.getenv("FIREBASE_EMAIL"), os.getenv("FIREBASE_PASSWORD")
+)
 # print(user)
 storage = firebase.storage()
 storage.child(f"/fsafd").put(f"teyvatdle_logo.png", user["idToken"])

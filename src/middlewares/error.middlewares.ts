@@ -1,5 +1,4 @@
-import { NextFunction, response } from "express";
-import { Request, Response } from "express";
+import { Request, Response, NextFunction } from "express";
 require("dotenv").config();
 
 export function errorHandler(
@@ -14,7 +13,7 @@ export function errorHandler(
 
   const responseBody = {
     message: err.message,
-    stack: process.env.NEW_VAR === "production" ? "" : err.stack,
+    stack: process.env.NODE_ENV === "production" ? undefined : err.stack,
   };
 
   console.error("Error: ", responseBody);
