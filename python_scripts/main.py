@@ -44,22 +44,26 @@ def get_data_and_images():
     download_wav()
 
 
-def upload_images(path, storage):
+def upload_images(path, storage, user):
     path_cloud = path.split("assets")[1]
     for file in os.listdir(path):
         print(file)
-        storage.child(f"{path_cloud}{file}").put(f"{path}{file}")
+        storage.child(f"{path_cloud}{file}").put(f"{path}{file}", user["idToken"])
 
 
 def upload_to_firebase():
 
     firebase = pyrebase.initialize_app(firebase_config)
+    auth = firebase.auth()
+    user = auth.sign_in_with_email_and_password(
+        os.getenv("FIREBASE_EMAIL"), os.getenv("FIREBASE_PASSWORD")
+    )
     storage = firebase.storage()
-    upload_images(path_to_audio, storage)
-    upload_images(path_to_ability_icons, storage)
-    upload_images(path_to_character_icons, storage)
-    upload_images(path_to_character_splash_pixelated, storage)
-    upload_images(path_to_character_splash_nonpixelated, storage)
+    upload_images(path_to_audio, storage, user)
+    upload_images(path_to_ability_icons, storage, user)
+    upload_images(path_to_character_icons, storage, user)
+    upload_images(path_to_character_splash_pixelated, storage, user)
+    upload_images(path_to_character_splash_nonpixelated, storage, user)
 
 
 def delete_images_and_audios():
@@ -77,11 +81,7 @@ def update_character_files():
     delete_images_and_audios()
 
 
-firebase = pyrebase.initialize_app(firebase_config)
-auth = firebase.auth()
-user = auth.sign_in_with_email_and_password(
-    os.getenv("FIREBASE_EMAIL"), os.getenv("FIREBASE_PASSWORD")
-)
-# print(user)
-storage = firebase.storage()
-storage.child(f"/fsafd").put(f"teyvatdle_logo.png", user["idToken"])
+if "__main__" == __name__:
+    # get_character_data()
+    # get_abilities_data()
+    get_voicelines()
