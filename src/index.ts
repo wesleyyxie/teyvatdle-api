@@ -6,6 +6,7 @@ import charactersRouter from "./routes/characters";
 import voicelinesRouter from "./routes/voicelines";
 import abilitiesRouter from "./routes/abilities";
 import splashRouter from "./routes/splash";
+import answersRouter from "./routes/answers";
 
 const app: Express = express();
 
@@ -13,7 +14,7 @@ app.use("/characters", charactersRouter);
 app.use("/voicelines", voicelinesRouter);
 app.use("/abilities", abilitiesRouter);
 app.use("/splash", splashRouter);
-
+app.use("/answers", answersRouter);
 app.get("/", (req: Request, res: Response) => {
   res.send({
     categories: ["characters", "abilities", "voicelines", "splash"],
