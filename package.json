@@ -13,6 +13,7 @@
     "initializetables": "node dist/src/database/initializetables.js",
     "predev": "npm run build",
     "dev": "concurrently \"npx tsc -w\" \"nodemon dist/server.js\"",
+    "pretest": "npm run build",
     "test": "jest"
   },
   "keywords": [],

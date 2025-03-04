@@ -1,56 +1,71 @@
 import * as Queries from "./queries";
 import { pool } from "./connection";
 
+// Drop table functions
 export async function dropClassicHistory() {
-  const [selectResult] = await pool.query(Queries.CLASSIC.DROP);
+  await pool.query(Queries.CLASSIC.DROP);
 }
 
 export async function dropAbilitiesHistory() {
-  const [selectResult] = await pool.query(Queries.ABILITIES.DROP);
+  await pool.query(Queries.ABILITIES.DROP);
 }
 
 export async function dropVoicelinesHistory() {
-  const [selectResult] = await pool.query(Queries.VOICELINES.DROP);
-}
-export async function dropSpyHistory() {
-  const [selectResult] = await pool.query(Queries.SPY.DROP);
+  await pool.query(Queries.VOICELINES.DROP);
 }
 
+export async function dropSpyHistory() {
+  await pool.query(Queries.SPY.DROP);
+}
+
+// Create table functions
 export async function createClassicHistory() {
-  const [selectResult] = await pool.query(Queries.CLASSIC.CREATE);
+  await pool.query(Queries.CLASSIC.CREATE);
 }
 
 export async function createAbilitiesHistory() {
-  const [selectResult] = await pool.query(Queries.ABILITIES.CREATE);
+  await pool.query(Queries.ABILITIES.CREATE);
 }
 
 export async function createVoicelinesHistory() {
-  const [selectResult] = await pool.query(Queries.VOICELINES.CREATE);
-}
-export async function createSpyHistory() {
-  const [selectResult] = await pool.query(Queries.SPY.CREATE);
+  await pool.query(Queries.VOICELINES.CREATE);
 }
 
-async function initalizeTables() {
+export async function createSpyHistory() {
+  await pool.query(Queries.SPY.CREATE);
+}
+
+// Initialize tables
+async function initializeTables() {
   await createClassicHistory();
   await createAbilitiesHistory();
   await createVoicelinesHistory();
   await createSpyHistory();
-  console.log("Created tables!");
+  console.log("✅ Tables created successfully!");
 }
 
+// Drop tables
 async function dropTables() {
   await dropClassicHistory();
   await dropAbilitiesHistory();
   await dropVoicelinesHistory();
   await dropSpyHistory();
-  console.log("Dropped tables!");
+  console.log("🗑️ Tables dropped successfully!");
 }
 
-async function dropThenCreate() {
+// Reset tables (drop and recreate)
+async function resetTables() {
   await dropTables();
-  await initalizeTables();
+  await initializeTables();
 }
 
-initalizeTables();
-process.exit();
+// Main execution
+(async function main() {
+  try {
+    await initializeTables();
+  } catch (error) {
+    console.error("❌ Error initializing tables:", error);
+  } finally {
+    process.exit();
+  }
+})();

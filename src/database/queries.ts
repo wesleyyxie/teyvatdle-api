@@ -1,4 +1,4 @@
-// Table names as constants
+// Define table names as constants for better maintainability
 const TABLES = {
   CLASSIC_HISTORY: "classichistory",
   ABILITIES_HISTORY: "abilitieshistory",
@@ -6,7 +6,7 @@ const TABLES = {
   SPY_HISTORY: "spyhistory",
 };
 
-// Helper functions to generate common query patterns
+// Helper functions to generate common SQL query patterns
 const generateDropTableQuery = (tableName: string) =>
   `DROP TABLE IF EXISTS ${tableName}`;
 const generateSelectAllQuery = (tableName: string) =>
@@ -14,6 +14,7 @@ const generateSelectAllQuery = (tableName: string) =>
 const generateCountQuery = (tableName: string) =>
   `SELECT COUNT(*) FROM ${tableName}`;
 
+// SQL Queries for CLASSIC_HISTORY table
 export const CLASSIC = {
   DROP: generateDropTableQuery(TABLES.CLASSIC_HISTORY),
   CREATE: `
@@ -26,6 +27,7 @@ export const CLASSIC = {
   INSERT: `INSERT INTO ${TABLES.CLASSIC_HISTORY} (created_at, character_name) VALUES (?, ?)`,
 };
 
+// SQL Queries for ABILITIES_HISTORY table
 export const ABILITIES = {
   DROP: generateDropTableQuery(TABLES.ABILITIES_HISTORY),
   CREATE: `
@@ -39,6 +41,7 @@ export const ABILITIES = {
   INSERT: `INSERT INTO ${TABLES.ABILITIES_HISTORY} (created_at, character_name, ability_type) VALUES (?, ?, ?)`,
 };
 
+// SQL Queries for VOICELINES_HISTORY table
 export const VOICELINES = {
   DROP: generateDropTableQuery(TABLES.VOICELINES_HISTORY),
   CREATE: `
@@ -52,6 +55,7 @@ export const VOICELINES = {
   INSERT: `INSERT INTO ${TABLES.VOICELINES_HISTORY} (created_at, character_name, voiceline_id) VALUES (?, ?, ?)`,
 };
 
+// SQL Queries for SPY_HISTORY table
 export const SPY = {
   DROP: generateDropTableQuery(TABLES.SPY_HISTORY),
   CREATE: `

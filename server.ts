@@ -4,5 +4,5 @@ const app: Express = require("./src");
 const port = 3000;
 
 app.listen(port, () => {
-  console.log(`Running on http://localhost:${3000}/`);
+  console.log(`Running on http://localhost:${port}/`);
 });
