@@ -58,6 +58,7 @@ export function getAnswerGamemode(req: Request, res: Response) {
       getSpyAnswer().then((answer) => res.send(answer));
       return;
   }
+  res.statusCode = 404;
   throw new Error(
     "Invalid gamemode. Please use 'classic', 'voicelines', 'abilities', or 'spy'."
   );

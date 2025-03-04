@@ -21,7 +21,7 @@ function getVoicelineById(characterName: string, id: string, res: Response) {
     res.statusCode = 404;
     throw new Error("Voiceline Id needs to be a number between 0 and 3");
   }
-  return characterVoicelines ? null : characterVoicelines[id];
+  return characterVoicelines[id as keyof typeof characterVoicelines];
 }
 
 export function getVoicelines(req: Request, res: Response) {
@@ -47,6 +47,10 @@ export function getVoicelinesByNameAndId(req: Request, res: Response) {
 export function getAudio(req: Request, res: Response) {
   const { characterName, id, audio } = req.params;
   const voiceline = getVoicelineById(characterName, id, res);
+  if (audio != "audio") {
+    res.statusCode = 404;
+    throw new Error("Item not found. Please use 'audio'");
+  }
   const url = `/audios/${characterName.toLowerCase().replace(/( )|(-)/, "_")}${id}.wav`;
   getSource(url, res, "audio/wav");
   return;

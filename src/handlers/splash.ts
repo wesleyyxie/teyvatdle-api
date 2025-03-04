@@ -13,12 +13,16 @@ function getCharacter(characterName: string, res: Response) {
   return character;
 }
 
-export function getNames(req: Request, res: Response) {
+export function getNamesList() {
   let namesArray = [];
   for (let name in characterInfo) {
     namesArray.push(name);
   }
+  return namesArray;
+}
 
+export function getNames(req: Request, res: Response) {
+  let namesArray = getNamesList();
   res.send({ availableSplashes: namesArray });
   return;
 }

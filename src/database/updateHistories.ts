@@ -131,12 +131,13 @@ async function updateSpyHistory() {
 }
 
 async function updateAnswers() {
-  console.log("updating answers!");
+  console.log("updating answers");
   await updateClassicHistory();
   await updateAbilitiesHistory();
   await updateVoicelinesHistory();
   await updateSpyHistory();
-  console.log("answers updated");
+  console.log("answers updated!");
+  process.exit();
 }
 
 updateAnswers();
