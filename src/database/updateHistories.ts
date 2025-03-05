@@ -1,14 +1,13 @@
 import abilities from "../../assets/data/abilities.json";
 import characters from "../../assets/data/characterInfo.json";
 import voicelines from "../../assets/data/voicelines.json";
-
 import { CountRows } from "./models";
 import {
   createClassicHistory,
   createAbilitiesHistory,
   createVoicelinesHistory,
   createSpyHistory,
-} from "./initializeTables";
+} from "./manageTables";
 import * as Queries from "./queries";
 import { pool } from "./connection";
 
