@@ -1,6 +1,4 @@
 {
-  "crons": [
-    { "path": "/src/database/updateHistories", "schedule": "2 8 * * *" }
-  ],
+  "crons": [{ "path": "/api/updateAnswers", "schedule": "11 8 * * *" }],
   "rewrites": [{ "source": "/(.*)", "destination": "/api" }]
 }
