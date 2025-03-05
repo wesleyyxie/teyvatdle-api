@@ -24,7 +24,7 @@ app.use("/answers", answersRouter);
 // Root endpoint - provides an overview of available API categories
 app.get("/", (req: Request, res: Response) => {
   res.json({
-    categories: ["characters", "abilities", "voicelines", "splash"],
+    categories: ["characters", "abilities", "voicelines", "splash", "answers"],
   });
 });
 
