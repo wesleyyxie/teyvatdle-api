@@ -129,7 +129,7 @@ async function updateSpyHistory() {
   return addToHistory("spy");
 }
 
-async function updateAnswers() {
+export async function updateAnswers() {
   console.log("updating answers");
   await updateClassicHistory();
   await updateAbilitiesHistory();
@@ -138,5 +138,3 @@ async function updateAnswers() {
   console.log("answers updated!");
   process.exit();
 }
-
-updateAnswers();

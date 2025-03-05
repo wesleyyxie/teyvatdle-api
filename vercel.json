@@ -1,3 +1,4 @@
 {
+  "crons": [{ "path": "/src/database/updateHistories", "schedule": "" }],
   "rewrites": [{ "source": "/(.*)", "destination": "/api" }]
 }
