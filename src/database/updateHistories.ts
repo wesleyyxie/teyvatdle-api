@@ -136,5 +136,4 @@ export async function updateAnswers() {
   await updateVoicelinesHistory();
   await updateSpyHistory();
   console.log("answers updated!");
-  process.exit();
 }
