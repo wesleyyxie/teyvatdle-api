@@ -138,5 +138,3 @@ export async function updateAnswers() {
   console.log("answers updated!");
   process.exit();
 }
-
-updateAnswers();
