@@ -12,6 +12,8 @@ import answersRouter from "./routes/answers";
 
 // Create Express application instance
 const app: Express = express();
+const cors = require("cors");
+app.use(cors());
 
 // Mount resource-specific routers
 // Each router handles requests to its specific endpoint
