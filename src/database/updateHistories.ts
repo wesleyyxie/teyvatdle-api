@@ -44,11 +44,7 @@ const historyTypes = {
     createTable: createVoicelinesHistory,
     dataSource: voicelines,
     getKey: (item: any) => `${item.name}-${item.voicelineId}`,
-    getParams: (item: any) => [
-      new Date().toUTCString(),
-      item.name,
-      item.voicelineId,
-    ],
+    getParams: (item: any) => [new Date(), item.name, item.voicelineId],
     idField: "voiceline_id",
     parentIdField: "character_name",
   },
