@@ -4,7 +4,7 @@ import { updateAnswers } from "../database/updateHistories";
 export function updateAnswerCron() {
   console.log("Setting up Cron Job");
   cron.schedule(
-    "4 10 * * *",
+    "8 10 * * *",
     async () => {
       await updateAnswers();
     },
